@@ -1,0 +1,72 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://cerridwen.viridian-project.de/api/v1/moon
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+      Host:
+      - cerridwen.viridian-project.de
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Thu, 12 Mar 2015 23:50:56 GMT
+      Server:
+      - Werkzeug/0.9.6 Python/3.3.4
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '2766'
+      Access-Control-Allow-Origin:
+      - "*"
+    body:
+      encoding: UTF-8
+      string: "[\n        {\n                \"jd\": 2457094.493695466, \n                \"iso_date\":
+        \"2015-03-12 23:50:55\", \n                \"position\": {\n                        \"absolute_degrees\":
+        253.00015485865572, \n                        \"sign\": \"Sagittarius\", \n
+        \                       \"deg\": 13.00015485865572, \n                        \"min\":
+        0.009291519343150867, \n                        \"sec\": 0.557491160589052,
+        \n                        \"rel_tuple\": [\n                                \"Sagittarius\",
+        \n                                13, \n                                0,
+        \n                                0\n                        ]\n                },
+        \n                \"phase\": {\n                        \"trend\": \"waning\",
+        \n                        \"shape\": \"gibbous\", \n                        \"quarter\":
+        3, \n                        \"quarter_english\": \"third quarter\"\n                },
+        \n                \"illumination\": 0.5504276102249583, \n                \"distance\":
+        0.0025825421849138557, \n                \"diameter\": 30.932506435659892,
+        \n                \"diameter_ratio\": 0.3401055074291441, \n                \"speed\":
+        12.992784015157044, \n                \"speed_ratio\": 0.34531765130449416,
+        \n                \"age\": 22.00254744105041, \n                \"period_length\":
+        29.408971833996475, \n                \"dignity\": null, \n                \"next_new_moon\":
+        {\n                        \"description\": \"New moon in Pisces\", \n                        \"jd\":
+        2457101.9001198588, \n                        \"iso_date\": \"2015-03-20 09:36:10\",
+        \n                        \"delta_days\": 7.4064093152992427\n                },
+        \n                \"next_full_moon\": {\n                        \"description\":
+        \"Full moon in Libra\", \n                        \"jd\": 2457117.0038607614,
+        \n                        \"iso_date\": \"2015-04-04 12:05:34\", \n                        \"delta_days\":
+        22.510150209069252\n                }, \n                \"next_new_or_full_moon\":
+        {\n                        \"description\": \"New moon in Pisces\", \n                        \"jd\":
+        2457101.9001198588, \n                        \"iso_date\": \"2015-03-20 09:36:10\",
+        \n                        \"delta_days\": 7.4064092971384525\n                },
+        \n                \"last_new_moon\": {\n                        \"description\":
+        \"New moon in Aquarius\", \n                        \"jd\": 2457072.4911480248,
+        \n                        \"iso_date\": \"2015-02-18 23:47:15\", \n                        \"delta_days\":
+        -22.002562546171248\n                }, \n                \"last_full_moon\":
+        {\n                        \"description\": \"Full moon in Virgo\", \n                        \"jd\":
+        2457087.2537436578, \n                        \"iso_date\": \"2015-03-05 18:05:23\",
+        \n                        \"delta_days\": -7.2399669215083122\n                }\n
+        \       }\n]"
+    http_version: 
+  recorded_at: Thu, 12 Mar 2015 23:50:57 GMT
+recorded_with: VCR 2.9.3

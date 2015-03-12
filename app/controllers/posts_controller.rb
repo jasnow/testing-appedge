@@ -49,7 +49,7 @@ class PostsController < ApplicationController
 #        format.html { render :new }
 #        format.json { render json: @post.errors, status: :unprocessable_entity }
 #      end
-    end
+#    end
   end
 
   # PATCH/PUT /posts/1
