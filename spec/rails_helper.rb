@@ -55,10 +55,10 @@ RSpec.configure do |config|
   config.include FactoryGirl::Syntax::Methods
   config.include Devise::TestHelpers, type: :controller
   config.include Warden::Test::Helpers
-end
 
-#ADDED
-VCR.configure do |c|
-  c.cassette_library_dir  = Rails.root.join("spec", "vcr")
-  c.hook_into :webmock
+  #ADDED
+  VCR.configure do |c|
+    c.cassette_library_dir  = Rails.root.join("spec", "vcr")
+    c.hook_into :webmock
+  end
 end

@@ -39,7 +39,7 @@ feature "AddNewPosts", :type => :feature do
 
       expect( Post.count ).to eq(1)
       expect( Post.first.name).to eq( "Post title")
-      expect( Post.first.moon_phase).to eq( "waxing in Pisces" )
+      expect( Post.first.moon_phase).to eq( "waning in Sagittarius" )
     end
   end
 end
