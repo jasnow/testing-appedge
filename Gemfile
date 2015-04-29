@@ -10,8 +10,9 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
 gem 'sdoc', group: :doc
+gem 'overcommit'
 
-#ADDED
+# ADDED
 gem 'devise'
 
 group :development, :test do
@@ -19,7 +20,7 @@ group :development, :test do
   gem 'web-console'
   gem 'spring'
 
-#ADDED ............................................................
+  # ADDED ......................................................
   gem 'rspec-rails'
   gem 'factory_girl_rails'
   gem 'capybara'
@@ -29,6 +30,6 @@ group :development, :test do
 end
 
 group :test do
-#ADDED ............................................................
+  # ADDED ......................................................
   gem 'webmock'
 end
