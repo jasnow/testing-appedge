@@ -14,7 +14,7 @@ gem 'overcommit'
 
 # ADDED
 gem 'devise'
-gem 'warden', '1.2.4' # LOCKED DOWN (REMOVE LINE IF FIXED)
+gem 'warden'
 
 group :development do
   gem 'web-console'

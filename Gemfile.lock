@@ -223,7 +223,7 @@ GEM
       execjs (>= 0.3.0)
       json (>= 1.8.0)
     vcr (3.0.1)
-    warden (1.2.4)
+    warden (1.2.6)
       rack (>= 1.0)
     web-console (3.1.1)
       activemodel (>= 4.2)
@@ -259,7 +259,7 @@ DEPENDENCIES
   turbolinks
   uglifier
   vcr
-  warden (= 1.2.4)
+  warden
   web-console
   webmock
 
