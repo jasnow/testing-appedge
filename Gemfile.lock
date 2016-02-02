@@ -40,7 +40,7 @@ GEM
     arel (6.0.3)
     bcrypt (3.1.10)
     builder (3.2.2)
-    byebug (8.2.1)
+    byebug (8.2.2)
     capybara (2.6.2)
       addressable
       mime-types (>= 1.16)
@@ -179,7 +179,7 @@ GEM
     rspec-mocks (3.4.1)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.4.0)
-    rspec-rails (3.4.1)
+    rspec-rails (3.4.2)
       actionpack (>= 3.0, < 4.3)
       activesupport (>= 3.0, < 4.3)
       railties (>= 3.0, < 4.3)
