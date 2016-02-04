@@ -259,6 +259,7 @@ DEPENDENCIES
   turbolinks
   uglifier
   vcr
+  warden
   web-console
   webmock
 

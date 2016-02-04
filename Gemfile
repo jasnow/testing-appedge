@@ -14,6 +14,7 @@ gem 'overcommit'
 
 # ADDED
 gem 'devise'
+gem 'warden'
 
 group :development do
   gem 'web-console'
