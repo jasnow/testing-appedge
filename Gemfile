@@ -16,9 +16,11 @@ gem 'jbuilder'
 gem 'sdoc', group: :doc
 gem 'overcommit'
 
+# ADDED
+gem 'warden'
+
 group :development do
   gem 'web-console'
-#, github: 'rails/web-console'
 end
 
 group :development, :test do

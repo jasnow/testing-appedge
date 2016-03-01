@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 65b2cfadddeaa3b077332f4c2a7848321255495a
+  revision: a408645223f81613b45366aa69d28584c37f17f8
   specs:
     actioncable (5.0.0.beta3)
       actionpack (= 5.0.0.beta3)
@@ -251,6 +251,7 @@ DEPENDENCIES
   turbolinks!
   uglifier
   vcr
+  warden
   web-console
   webmock
 
