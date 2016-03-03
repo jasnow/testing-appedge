@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: e2f08a1c0a9d1dc2f27d1dfcd3c9937f4190554a
+  revision: 4328e4b5930d5d89cc83c7693c212e4bb9b0a7d0
   specs:
     actioncable (5.0.0.beta3)
       actionpack (= 5.0.0.beta3)
@@ -218,7 +218,7 @@ GEM
       activemodel (>= 4.2)
       debug_inspector
       railties (>= 4.2)
-    webmock (1.24.1)
+    webmock (1.24.2)
       addressable (>= 2.3.6)
       crack (>= 0.3.2)
       hashdiff
