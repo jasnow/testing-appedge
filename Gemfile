@@ -4,8 +4,8 @@ source 'https://rubygems.org'
 gem 'rails',      github: 'rails/rails'
 gem 'turbolinks', github: 'rails/turbolinks'
 gem 'devise',     github: 'twalpole/devise'
-#gem 'devise',     github: 'twalpole/devise', branch: 'rails5'
 gem 'rails-controller-testing'
+gem 'rake', '10.5.0' # LOCKED DOWN
 
 gem 'sqlite3'
 gem 'sass-rails'
