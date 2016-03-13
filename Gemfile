@@ -5,7 +5,6 @@ gem 'rails',      github: 'rails/rails'
 gem 'turbolinks', github: 'rails/turbolinks'
 gem 'devise',     github: 'twalpole/devise'
 gem 'rails-controller-testing'
-gem 'rake', '10.5.0' # LOCKED DOWN
 
 gem 'sqlite3'
 gem 'sass-rails'

@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: f8d9c0510742b4f2d440f5223803453aaf0fbab0
+  revision: feef64cee4497ed4cdab04fffd37204c84452cee
   specs:
     actioncable (5.0.0.beta3)
       actionpack (= 5.0.0.beta3)
@@ -159,7 +159,7 @@ GEM
       rails-deprecated_sanitizer (>= 1.0.1)
     rails-html-sanitizer (1.0.3)
       loofah (~> 2.0)
-    rake (10.5.0)
+    rake (11.1.0)
     rdoc (4.2.2)
       json (~> 1.4)
     responders (2.1.1)
@@ -242,7 +242,6 @@ DEPENDENCIES
   overcommit
   rails!
   rails-controller-testing
-  rake (= 10.5.0)
   rspec-rails (= 3.5.0.beta1)
   sass-rails
   sdoc
