@@ -28,7 +28,7 @@ group :development, :test do
 
   # ADDED ......................................................
   # Rails 5
-  gem 'rspec-rails', '3.5.0.beta1'
+  gem 'rspec-rails', '3.5.0.beta2'
 
   # ADDED ......................................................
   gem 'factory_girl_rails'
