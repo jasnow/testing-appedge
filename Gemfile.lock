@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: feef64cee4497ed4cdab04fffd37204c84452cee
+  revision: 493297d13f7d010a896b6cb026c874f64d959ba5
   specs:
     actioncable (5.0.0.beta3)
       actionpack (= 5.0.0.beta3)
@@ -159,7 +159,7 @@ GEM
       rails-deprecated_sanitizer (>= 1.0.1)
     rails-html-sanitizer (1.0.3)
       loofah (~> 2.0)
-    rake (11.1.0)
+    rake (11.1.1)
     rdoc (4.2.2)
       json (~> 1.4)
     responders (2.1.1)
