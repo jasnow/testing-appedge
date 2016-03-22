@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: bedb00aeb9c57649f63f5dd50692129aba3aecfe
+  revision: c519d1c2ef28f42342ca4446b8211770b4f551cb
   specs:
     actioncable (5.0.0.beta3)
       actionpack (= 5.0.0.beta3)
@@ -208,9 +208,8 @@ GEM
     tilt (2.0.2)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
-    uglifier (2.7.2)
-      execjs (>= 0.3.0)
-      json (>= 1.8.0)
+    uglifier (3.0.0)
+      execjs (>= 0.3.0, < 3)
     vcr (3.0.1)
     warden (1.2.6)
       rack (>= 1.0)
