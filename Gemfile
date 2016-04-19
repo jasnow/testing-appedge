@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 # Rails 5
 gem 'rails',      github: 'rails/rails'
 gem 'turbolinks', github: 'rails/turbolinks'
-gem 'devise',     github: 'twalpole/devise'
+gem 'devise'
 gem 'rails-controller-testing'
 
 gem 'sqlite3'
