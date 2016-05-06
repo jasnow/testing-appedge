@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: b8de57411227b79f17181deb88f5a32175777083
+  revision: 254f57ca3668398a5fcfd4f63be5d91c4c3b1cd4
   specs:
     rails (5.0.0.beta4)
       actioncable (= 5.0.0.beta4)
@@ -251,4 +251,4 @@ DEPENDENCIES
   webmock
 
 BUNDLED WITH
-   1.12.0
+   1.12.2
