@@ -6,9 +6,9 @@ gem 'devise'
 gem 'rails-controller-testing'
 
 gem 'sqlite3'
-gem 'sass-rails'
+gem 'sass-rails', github: 'rails/sass-rails' # 5/10/2016: Needed for Rails 5.1.
 gem 'uglifier'
-gem 'coffee-rails'
+gem 'coffee-rails', github: 'rails/coffee-rails' # 5/10/2016: Needed for Rails 5.1.
 gem 'jquery-rails'
 gem 'jbuilder'
 gem 'sdoc', group: :doc
