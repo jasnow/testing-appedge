@@ -34,7 +34,7 @@ group :development, :test do
   gem 'capybara'
 #HID/FIXME:  gem 'guard-rspec'
   gem 'spring-commands-rspec'
-  gem 'vcr'
+  gem 'vcr', github: 'vcr/vcr' # 5/20/2016: 3.0.2 broke "rake" run.
 end
 
 group :test do

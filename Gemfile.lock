@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/coffee-rails.git
-  revision: cb38db1de9ee1ccaa6c7bf2bf7d9248dd7e10fb4
+  revision: 54de8caa5df87de66dea75a8b423696cf23ca1e6
   specs:
     coffee-rails (4.1.1)
       coffee-script (>= 2.2.0)
@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 89e2f7e722e06f900bdb1c14db33073c90d7cdea
+  revision: e530534265d2c32b5c5f772e81cb9002dcf5e9cf
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -83,6 +83,12 @@ GIT
     turbolinks (3.0.0)
       coffee-rails
 
+GIT
+  remote: git://github.com/vcr/vcr.git
+  revision: e1be3b483bccae3a123607f61287e0376ae110c5
+  specs:
+    vcr (3.0.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -90,7 +96,7 @@ GEM
     arel (7.0.0)
     bcrypt (3.1.11)
     builder (3.2.2)
-    byebug (9.0.3)
+    byebug (9.0.4)
     capybara (2.7.1)
       addressable
       mime-types (>= 1.16)
@@ -116,7 +122,7 @@ GEM
       warden (~> 1.2.3)
     diff-lcs (1.2.5)
     erubis (2.7.0)
-    execjs (2.6.0)
+    execjs (2.7.0)
     factory_girl (4.7.0)
       activesupport (>= 3.0.0)
     factory_girl_rails (4.7.0)
@@ -211,18 +217,17 @@ GEM
       thread_safe (~> 0.1)
     uglifier (3.0.0)
       execjs (>= 0.3.0, < 3)
-    vcr (3.0.1)
     warden (1.2.6)
       rack (>= 1.0)
     web-console (3.1.1)
       activemodel (>= 4.2)
       debug_inspector
       railties (>= 4.2)
-    webmock (2.0.2)
+    webmock (2.0.3)
       addressable (>= 2.3.6)
       crack (>= 0.3.2)
       hashdiff
-    websocket-driver (0.6.3)
+    websocket-driver (0.6.4)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.2)
     xpath (2.0.0)
@@ -250,7 +255,7 @@ DEPENDENCIES
   sqlite3
   turbolinks!
   uglifier
-  vcr
+  vcr!
   warden
   web-console
   webmock
