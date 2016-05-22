@@ -85,9 +85,9 @@ GIT
 
 GIT
   remote: git://github.com/vcr/vcr.git
-  revision: e1be3b483bccae3a123607f61287e0376ae110c5
+  revision: cdf670fc12ada7682966bc3f76bd471efba1eafe
   specs:
-    vcr (3.0.2)
+    vcr (3.0.3)
 
 GEM
   remote: https://rubygems.org/
@@ -149,7 +149,7 @@ GEM
     method_source (0.8.2)
     mime-types (3.0)
       mime-types-data (~> 3.2015)
-    mime-types-data (3.2016.0221)
+    mime-types-data (3.2016.0521)
     mini_portile2 (2.0.0)
     minitest (5.9.0)
     multi_json (1.12.1)
