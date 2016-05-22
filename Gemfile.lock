@@ -83,12 +83,6 @@ GIT
     turbolinks (3.0.0)
       coffee-rails
 
-GIT
-  remote: git://github.com/vcr/vcr.git
-  revision: cdf670fc12ada7682966bc3f76bd471efba1eafe
-  specs:
-    vcr (3.0.3)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -217,6 +211,7 @@ GEM
       thread_safe (~> 0.1)
     uglifier (3.0.0)
       execjs (>= 0.3.0, < 3)
+    vcr (3.0.3)
     warden (1.2.6)
       rack (>= 1.0)
     web-console (3.1.1)
@@ -255,7 +250,7 @@ DEPENDENCIES
   sqlite3
   turbolinks!
   uglifier
-  vcr!
+  vcr
   warden
   web-console
   webmock
