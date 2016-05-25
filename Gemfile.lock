@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/coffee-rails.git
-  revision: 54de8caa5df87de66dea75a8b423696cf23ca1e6
+  revision: 3416e4d1179dc621f9121101a7966c0097fb5009
   specs:
     coffee-rails (4.1.1)
       coffee-script (>= 2.2.0)
@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: bf219714dce494f5b69cb7dd9b8c43a68a4988da
+  revision: e0dbf155ed8f1047f5bca22a4b3718f063d968a0
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
