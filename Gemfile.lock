@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 1afdbbeb27e3bda6b7db02ea4b71ad1b170d6ecc
+  revision: 998bbbcc0e043e16b96613387cdb8f0ee4784ff2
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -128,7 +128,7 @@ GEM
     hashdiff (0.3.0)
     i18n (0.7.0)
     iniparse (1.4.2)
-    jbuilder (2.4.1)
+    jbuilder (2.5.0)
       activesupport (>= 3.0.0, < 5.1)
       multi_json (~> 1.2)
     jquery-rails (4.1.1)
