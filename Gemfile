@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails',      github: 'rails/rails'
 gem 'turbolinks', github: 'rails/turbolinks'
-gem 'devise'
+gem 'devise',     github: 'plataformatec/devise'
 gem 'rails-controller-testing'
 
 gem 'sqlite3'

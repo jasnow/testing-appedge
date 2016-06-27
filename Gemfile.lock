@@ -1,4 +1,15 @@
 GIT
+  remote: git://github.com/plataformatec/devise.git
+  revision: 8d78dc072f78b842a3541deb63c1bde261ddf1b7
+  specs:
+    devise (4.1.0)
+      bcrypt (~> 3.0)
+      orm_adapter (~> 0.1)
+      railties (>= 4.1.0, < 5.1)
+      responders
+      warden (~> 1.2.3)
+
+GIT
   remote: git://github.com/rails/coffee-rails.git
   revision: 3416e4d1179dc621f9121101a7966c0097fb5009
   specs:
@@ -8,7 +19,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: c4cb6862babd2665a65056e205c2a5fd17a5d99d
+  revision: 5ce304af9691371129d7a0c03e0e32c06f242c5e
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -108,12 +119,6 @@ GEM
     crack (0.4.3)
       safe_yaml (~> 1.0.0)
     debug_inspector (0.0.2)
-    devise (4.1.1)
-      bcrypt (~> 3.0)
-      orm_adapter (~> 0.1)
-      railties (>= 4.1.0, < 5.1)
-      responders
-      warden (~> 1.2.3)
     diff-lcs (1.2.5)
     erubis (2.7.0)
     execjs (2.7.0)
@@ -237,7 +242,7 @@ DEPENDENCIES
   byebug
   capybara
   coffee-rails!
-  devise
+  devise!
   factory_girl_rails
   jbuilder
   jquery-rails
