@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/plataformatec/devise.git
-  revision: 22784cb55abefc8a62c69dcc170a30d18e45c7ac
+  revision: fe10a5b17a2d2c7f83ca3f3b978e5084e041dd88
   specs:
     devise (4.1.0)
       bcrypt (~> 3.0)
@@ -19,7 +19,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 5ce304af9691371129d7a0c03e0e32c06f242c5e
+  revision: 3055f59e0ad7d5f0eee24c22a45fbae4a40b056e
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -207,7 +207,7 @@ GEM
     sprockets (4.0.0.beta2)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
-    sprockets-rails (3.1.0)
+    sprockets-rails (3.1.1)
       actionpack (>= 4.0)
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
