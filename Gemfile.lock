@@ -11,15 +11,15 @@ GIT
 
 GIT
   remote: git://github.com/rails/coffee-rails.git
-  revision: 3416e4d1179dc621f9121101a7966c0097fb5009
+  revision: b3d64eb497db07346748a0504e353741b621bc23
   specs:
-    coffee-rails (4.1.1)
+    coffee-rails (4.2.1)
       coffee-script (>= 2.2.0)
       railties (>= 4.0.0, < 5.2.x)
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 629a13a4c57355ff3ab50512e9c2d0f480900726
+  revision: 3bf0fe4a9c17806fd9e790eed545f5a8bf7c5537
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -34,7 +34,7 @@ GIT
     actionpack (5.1.0.alpha)
       actionview (= 5.1.0.alpha)
       activesupport (= 5.1.0.alpha)
-      rack (~> 2.x)
+      rack (~> 2.0)
       rack-test (~> 0.6.3)
       rails-dom-testing (~> 2.0)
       rails-html-sanitizer (~> 1.0, >= 1.0.2)
@@ -161,8 +161,7 @@ GEM
       childprocess (~> 0.5.8)
       iniparse (~> 1.4)
     pkg-config (1.1.7)
-    rack (2.0.0.rc1)
-      json
+    rack (2.0.1)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails-controller-testing (0.1.1)
