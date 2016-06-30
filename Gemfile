@@ -1,21 +1,20 @@
 source 'https://rubygems.org'
 
 gem 'rails',      github: 'rails/rails'
-gem 'turbolinks', github: 'rails/turbolinks'
 gem 'devise',     github: 'plataformatec/devise'
 gem 'rails-controller-testing'
 
+gem 'sass-rails'
+gem 'coffee-rails'
+gem 'turbolinks'
 gem 'sqlite3'
-gem 'sass-rails', github: 'rails/sass-rails' # 5/10/2016: Needed for Rails 5.1.
 gem 'uglifier'
-gem 'coffee-rails', github: 'rails/coffee-rails' # 5/10/2016: Needed for Rails 5.1.
 gem 'jquery-rails'
 gem 'jbuilder'
-gem 'sdoc', group: :doc
 gem 'overcommit'
-
-# ADDED
 gem 'warden'
+
+gem 'sdoc', group: :doc
 
 group :development do
   gem 'web-console'
@@ -25,11 +24,8 @@ group :development, :test do
   gem 'byebug'
   gem 'spring'
 
-  # ADDED ......................................................
-  # Rails 5
-  gem 'rspec-rails', '3.5.0.beta4'
+  gem 'rspec-rails', '3.5.0.beta4' # RAILS 5
 
-  # ADDED ......................................................
   gem 'factory_girl_rails'
   gem 'capybara'
 #HID/FIXME:  gem 'guard-rspec'
@@ -38,7 +34,5 @@ group :development, :test do
 end
 
 group :test do
-  # ADDED ......................................................
   gem 'webmock'
 end
-
