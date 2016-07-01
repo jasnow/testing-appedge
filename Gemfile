@@ -24,7 +24,7 @@ group :development, :test do
   gem 'byebug'
   gem 'spring'
 
-  gem 'rspec-rails', '3.5.0.beta4' # RAILS 5
+  gem 'rspec-rails'
 
   gem 'factory_girl_rails'
   gem 'capybara'
