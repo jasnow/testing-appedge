@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails',      github: 'rails/rails'
-gem 'devise',     github: 'plataformatec/devise'
+gem 'devise'
 gem 'rails-controller-testing'
 
 gem 'sass-rails'
