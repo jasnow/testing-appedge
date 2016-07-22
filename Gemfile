@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 
 gem 'rails',      github: 'rails/rails'
-gem 'devise'
+gem 'sass-rails', github: 'rails/sass-rails'
 gem 'rails-controller-testing'
 
-gem 'sass-rails'
+gem 'devise'
 gem 'coffee-rails'
 gem 'turbolinks'
 gem 'sqlite3'
