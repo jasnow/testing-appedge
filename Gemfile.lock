@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 7e6996a1b36cdf8158a27eeaa7e6d97a05994707
+  revision: a8025faa7da7a8b84d25e75ab00b1f3990f0b1c6
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -72,7 +72,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     addressable (2.4.0)
-    arel (7.1.0)
+    arel (7.1.1)
     bcrypt (3.1.11)
     builder (3.2.2)
     byebug (9.0.5)
