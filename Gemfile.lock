@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 82ec6b36065e91fe0ec5a87f9419840618ce2c5d
+  revision: e1aabeedd896fe381570f85c5b4116049c49f1b6
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -76,7 +76,7 @@ GEM
     bcrypt (3.1.11)
     builder (3.2.2)
     byebug (9.0.5)
-    capybara (2.7.1)
+    capybara (2.8.0)
       addressable
       mime-types (>= 1.16)
       nokogiri (>= 1.3.3)
