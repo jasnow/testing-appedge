@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 0ca595ea6e3a9523b7902b05305437054de67e43
+  revision: 897ac0ed19e27f782bd3f5131a67b8c9a57f66d3
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -140,7 +140,7 @@ GEM
       mini_portile2 (~> 2.1.0)
       pkg-config (~> 1.1.7)
     orm_adapter (0.5.0)
-    overcommit (0.35.0)
+    overcommit (0.36.0)
       childprocess (~> 0.5.8)
       iniparse (~> 1.4)
     pkg-config (1.1.7)
