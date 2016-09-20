@@ -156,7 +156,7 @@ GEM
       nokogiri (~> 1.6.0)
     rails-html-sanitizer (1.0.3)
       loofah (~> 2.0)
-    rake (11.2.2)
+    rake (11.3.0)
     rdoc (4.2.2)
       json (~> 1.4)
     responders (2.3.0)
