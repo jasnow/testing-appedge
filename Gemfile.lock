@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 7506f3390683fd1329e60385515c3c55b39ff1d5
+  revision: fe1f4b2ad56f010a4e9b93d547d63a15953d9dc2
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -205,7 +205,7 @@ GEM
     vcr (3.0.3)
     warden (1.2.6)
       rack (>= 1.0)
-    web-console (3.3.1)
+    web-console (3.4.0)
       actionview (>= 5.0)
       activemodel (>= 5.0)
       debug_inspector
