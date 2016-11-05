@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 98faa2a6a12e849119b60c72b08a25b03d3c867c
+  revision: a3478f1685a507874c710c8461cbfd6be84d95c0
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -71,7 +71,8 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.4.0)
+    addressable (2.5.0)
+      public_suffix (~> 2.0, >= 2.0.2)
     arel (7.1.4)
     bcrypt (3.1.11)
     builder (3.2.2)
@@ -142,6 +143,7 @@ GEM
     overcommit (0.37.0)
       childprocess (~> 0.5.8)
       iniparse (~> 1.4)
+    public_suffix (2.0.3)
     rack (2.0.1)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -155,8 +157,7 @@ GEM
     rails-html-sanitizer (1.0.3)
       loofah (~> 2.0)
     rake (11.3.0)
-    rdoc (4.2.2)
-      json (~> 1.4)
+    rdoc (4.3.0)
     responders (2.3.0)
       railties (>= 4.2.0, < 5.1)
     rspec-core (3.5.4)
