@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 2575ba80c7064b61aff041f048698ca1f00b5a39
+  revision: fb6ac0c5f3227d67d11c89fa7398fbfe183bfb30
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -137,7 +137,7 @@ GEM
     minitest (5.10.1)
     multi_json (1.12.1)
     nio4r (1.2.1)
-    nokogiri (1.6.8.1)
+    nokogiri (1.7.0)
       mini_portile2 (~> 2.1.0)
     orm_adapter (0.5.0)
     overcommit (0.37.0)
@@ -151,9 +151,9 @@ GEM
       actionpack (~> 5.x)
       actionview (~> 5.x)
       activesupport (~> 5.x)
-    rails-dom-testing (2.0.1)
+    rails-dom-testing (2.0.2)
       activesupport (>= 4.2.0, < 6.0)
-      nokogiri (~> 1.6.0)
+      nokogiri (~> 1.6)
     rails-html-sanitizer (1.0.3)
       loofah (~> 2.0)
     rake (12.0.0)
