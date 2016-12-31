@@ -5,6 +5,7 @@ gem 'json', '2.0.2' # LOCKED DOWN
 
 gem 'rails',      git: 'https://github.com/rails/rails'
 gem 'sass-rails', git: 'https://github.com/rails/sass-rails'
+gem 'arel', git: 'https://github.com/rails/arel'
 
 gem 'rails-controller-testing'
 
