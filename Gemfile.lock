@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: aa0a3d26e338dd293a632e99e815e5ca6fad0d58
+  revision: e15a23fa355ed29d70c2ec573cd7b2418f7ac8db
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -116,7 +116,7 @@ GEM
     factory_girl_rails (4.8.0)
       factory_girl (~> 4.8.0)
       railties (>= 3.0.0)
-    ffi (1.9.16)
+    ffi (1.9.17)
     globalid (0.3.7)
       activesupport (>= 4.1.0)
     hashdiff (0.3.2)
