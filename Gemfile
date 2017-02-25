@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails',      git: 'https://github.com/rails/rails'
+gem 'rails', git: 'https://github.com/rails/rails'
 
 gem 'rails-controller-testing'
 gem 'sass-rails'
