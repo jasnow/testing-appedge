@@ -1,4 +1,12 @@
 GIT
+  remote: https://github.com/rails/coffee-rails
+  revision: 608c708298afdc62c9de45d96b28b7db558aebee
+  specs:
+    coffee-rails (4.2.1)
+      coffee-script (>= 2.2.0)
+      railties (>= 4.0.0, < 6.0.x)
+
+GIT
   remote: https://github.com/rails/rails
   revision: 843345cae59b73e50af685ac1303a419a06b4c91
   specs:
@@ -77,9 +85,6 @@ GEM
       xpath (~> 2.0)
     childprocess (0.5.9)
       ffi (~> 1.0, >= 1.0.11)
-    coffee-rails (4.2.1)
-      coffee-script (>= 2.2.0)
-      railties (>= 4.0.0, < 5.2.x)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -224,7 +229,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   capybara
-  coffee-rails
+  coffee-rails!
   devise
   factory_girl_rails
   jbuilder
