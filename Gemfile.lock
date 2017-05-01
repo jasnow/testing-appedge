@@ -19,7 +19,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: 5fa0a93119e94208e3a361dbd8908a9f08c10bae
+  revision: 7cb71c5ce37b7bc599de851d44eaa6a948daec03
   specs:
     actioncable (5.2.0.alpha)
       actionpack (= 5.2.0.alpha)
@@ -114,7 +114,7 @@ GEM
     ffi (1.9.18)
     globalid (0.4.0)
       activesupport (>= 4.2.0)
-    hashdiff (0.3.2)
+    hashdiff (0.3.4)
     i18n (0.8.1)
     iniparse (1.4.2)
     jbuilder (2.6.3)
