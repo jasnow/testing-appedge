@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/plataformatec/devise
-  revision: 83213569dd77551bb5cac493e2767457970905bc
+  revision: cc6a5824089ed2cbd015a6951ce6d43d00264486
   specs:
     devise (4.2.1)
       bcrypt (~> 3.0)
@@ -19,7 +19,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: efcf71fb64319519784fe1c69fd66f36fb52e47a
+  revision: e98651654ae94d0263035ff9f10ec13eb8e4d6b7
   specs:
     actioncable (5.2.0.alpha)
       actionpack (= 5.2.0.alpha)
