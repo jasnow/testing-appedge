@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/plataformatec/devise
-  revision: ee01bac8b0b828b3da0d79c46115ba65c433d6c8
+  revision: 5e014ab6072551f6c39c391340e6b2089c849d00
   specs:
     devise (4.3.0)
       bcrypt (~> 3.0)
@@ -11,7 +11,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/coffee-rails
-  revision: 1134eec325b3adc1847451762299370a897c7900
+  revision: db1ed754360faddf9d29895466b6acef78aa0563
   specs:
     coffee-rails (4.2.1)
       coffee-script (>= 2.2.0)
@@ -19,7 +19,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: f73b845610931ddf03c756d804982776a3cc69a4
+  revision: f09196153f2c5b9cc215d727e09aec84ff16fcb3
   specs:
     actioncable (5.2.0.alpha)
       actionpack (= 5.2.0.alpha)
@@ -214,7 +214,7 @@ GEM
     vcr (3.0.3)
     warden (1.2.7)
       rack (>= 1.0)
-    web-console (3.5.0)
+    web-console (3.5.1)
       actionview (>= 5.0)
       activemodel (>= 5.0)
       bindex (>= 0.4.0)
