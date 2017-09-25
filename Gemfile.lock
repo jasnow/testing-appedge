@@ -1,12 +1,12 @@
 GIT
   remote: https://github.com/rails/arel
-  revision: 2b07cebc67e9d980ff6a13751687745cfc03ed9f
+  revision: 1ede2ad3c7ae41ed1e06a92358b37c880dea9837
   specs:
     arel (9.0.0.alpha)
 
 GIT
   remote: https://github.com/rails/rails
-  revision: 6aa56460d54518d126663b1ddc6091330b8d16b4
+  revision: ab08f33f312c20638b9a7c38ee6318727c7f107d
   specs:
     actioncable (5.2.0.alpha)
       actionpack (= 5.2.0.alpha)
@@ -96,6 +96,7 @@ GEM
     concurrent-ruby (1.0.5)
     crack (0.4.3)
       safe_yaml (~> 1.0.0)
+    crass (1.0.2)
     devise (4.3.0)
       bcrypt (~> 3.0)
       orm_adapter (~> 0.1)
@@ -124,7 +125,8 @@ GEM
       railties (>= 4.2.0)
       thor (>= 0.14, < 2.0)
     json (1.8.6)
-    loofah (2.0.3)
+    loofah (2.1.1)
+      crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     mail (2.6.6)
       mime-types (>= 1.16, < 4)
