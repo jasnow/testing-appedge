@@ -26,6 +26,7 @@ group :development, :test do
   gem 'spring'
 
   gem 'rspec-rails'
+  gem 'puma'
 
   gem 'factory_girl_rails'
   gem 'capybara'
