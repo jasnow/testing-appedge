@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: d7ee4f2059ef6a51a5e9f7323cd669a2998301e0
+  revision: ded41a9b84299f536bc136d78069a50a2e867768
   specs:
     actioncable (5.2.0.alpha)
       actionpack (= 5.2.0.alpha)
@@ -147,7 +147,6 @@ GEM
       childprocess (~> 0.6, >= 0.6.3)
       iniparse (~> 1.4)
     public_suffix (3.0.0)
-    puma (3.10.0)
     rack (2.0.3)
     rack-test (0.7.0)
       rack (>= 1.0, < 3)
@@ -176,7 +175,7 @@ GEM
     rspec-mocks (3.7.0)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.7.0)
-    rspec-rails (3.7.0)
+    rspec-rails (3.7.1)
       actionpack (>= 3.0)
       activesupport (>= 3.0)
       railties (>= 3.0)
@@ -253,7 +252,6 @@ DEPENDENCIES
   jbuilder
   jquery-rails
   overcommit
-  puma
   rails!
   rails-controller-testing
   rspec-rails
