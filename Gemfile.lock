@@ -140,7 +140,7 @@ GEM
       iniparse (~> 1.4)
     public_suffix (3.0.1)
     rack (2.0.3)
-    rack-test (0.7.1)
+    rack-test (0.8.0)
       rack (>= 1.0, < 3)
     rails-controller-testing (1.0.2)
       actionpack (~> 5.x, >= 5.0.1)
