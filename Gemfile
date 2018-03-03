@@ -27,7 +27,7 @@ group :development, :test do
 
   gem 'rspec-rails'
   gem 'factory_bot_rails'
-  gem 'capybara'
+  gem 'capybara', '3.0.0.rc1'
 #HID/FIXME:  gem 'guard-rspec'
   gem 'spring-commands-rspec'
   gem 'vcr'
