@@ -239,7 +239,7 @@ PLATFORMS
 DEPENDENCIES
   arel
   byebug
-  capybara (= 3.0.0)
+  capybara
   coffee-rails
   devise
   factory_bot_rails
