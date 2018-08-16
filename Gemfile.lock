@@ -141,7 +141,7 @@ GEM
     overcommit (0.45.0)
       childprocess (~> 0.6, >= 0.6.3)
       iniparse (~> 1.4)
-    public_suffix (3.0.2)
+    public_suffix (3.0.3)
     rack (2.0.5)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
