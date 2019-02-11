@@ -7,7 +7,7 @@ gem 'rails-controller-testing'
 gem 'sass-rails'
 gem 'coffee-rails'
 gem 'turbolinks'
-gem 'sqlite3'
+gem 'sqlite3', '1.3.13' # 2/11/2019: LOCKED DOWN
 gem 'uglifier'
 gem 'jquery-rails'
 gem 'jbuilder'
