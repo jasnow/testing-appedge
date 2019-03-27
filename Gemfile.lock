@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 3296dc258960aa3289a3a9a6d118d3ef40089bd9
+  revision: 00690b27e5c3b1beaa9f6e73fec9e9a1c639f748
   specs:
     actioncable (6.0.0.beta3)
       actionpack (= 6.0.0.beta3)
@@ -55,7 +55,7 @@ GIT
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
-      zeitwerk (~> 1.4, >= 1.4.2)
+      zeitwerk (~> 1.4, >= 1.4.3)
     rails (6.0.0.beta3)
       actioncable (= 6.0.0.beta3)
       actionmailbox (= 6.0.0.beta3)
@@ -201,7 +201,7 @@ GEM
     overcommit (0.47.0)
       childprocess (~> 0.6, >= 0.6.3)
       iniparse (~> 1.4)
-    parallel (1.15.0)
+    parallel (1.16.0)
     parser (2.6.2.0)
       ast (~> 2.4.0)
     psych (3.1.0)
@@ -293,7 +293,7 @@ GEM
     websocket-extensions (0.1.3)
     xpath (3.2.0)
       nokogiri (~> 1.8)
-    zeitwerk (1.4.2)
+    zeitwerk (1.4.3)
 
 PLATFORMS
   ruby
