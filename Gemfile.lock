@@ -16,7 +16,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: da2c92377c7f36469e56dc25a4ac0604157ac778
+  revision: 406d3a926cfcd3724f8002f70346aad95eed4a8c
   specs:
     actioncable (6.0.0.beta3)
       actionpack (= 6.0.0.beta3)
@@ -144,7 +144,7 @@ GEM
       public_suffix (>= 2.0.2, < 4.0)
     ast (2.4.0)
     bcrypt (3.1.12)
-    bindex (0.5.0)
+    bindex (0.6.0)
     builder (3.2.3)
     byebug (11.0.1)
     capybara (3.16.0)
