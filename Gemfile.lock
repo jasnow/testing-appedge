@@ -16,7 +16,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: 002684e36e813469c3585e193f0698784c88278b
+  revision: d3a6277fd60b73ecdf1ad52db97cd9808c2ab2a8
   specs:
     actioncable (6.0.0.beta3)
       actionpack (= 6.0.0.beta3)
@@ -212,7 +212,7 @@ GEM
     overcommit (0.47.0)
       childprocess (~> 0.6, >= 0.6.3)
       iniparse (~> 1.4)
-    parallel (1.16.2)
+    parallel (1.17.0)
     parser (2.6.2.0)
       ast (~> 2.4.0)
     psych (3.1.0)
