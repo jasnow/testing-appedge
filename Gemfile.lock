@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/jbuilder
-  revision: ca14de39b441564e1fd6d4653771d7a2b2f7470a
+  revision: b1c9e5178ebe1d1ab9260f9b64dbec6fd4cae3cb
   specs:
     jbuilder (2.8.0)
       activesupport (>= 4.2.0)
@@ -16,7 +16,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: 9864f5e3d693b53c3540637c562a5be6e1e2c66a
+  revision: fd81e83be7a6fcaa34467ff3d01ab6f66c922d6c
   specs:
     actioncable (6.0.0.beta3)
       actionpack (= 6.0.0.beta3)
@@ -251,7 +251,7 @@ GEM
       rubocop (>= 0.60.0)
     ruby-progressbar (1.10.0)
     safe_yaml (1.0.5)
-    sass (3.7.3)
+    sass (3.7.4)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
