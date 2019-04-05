@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/jbuilder
-  revision: b1c9e5178ebe1d1ab9260f9b64dbec6fd4cae3cb
+  revision: 7ff5e25bce45d13282133ed1aab122cc050d396e
   specs:
     jbuilder (2.8.0)
       activesupport (>= 4.2.0)
@@ -16,7 +16,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: 50fba828d533ff75671ca8b83337dd99aa613ff7
+  revision: a8328f61b6b958140738d5c31438132b20089c93
   specs:
     actioncable (6.0.0.beta3)
       actionpack (= 6.0.0.beta3)
@@ -239,7 +239,7 @@ GEM
     responders (2.4.1)
       actionpack (>= 4.2.0, < 6.0)
       railties (>= 4.2.0, < 6.0)
-    rubocop (0.67.1)
+    rubocop (0.67.2)
       jaro_winkler (~> 1.5.1)
       parallel (~> 1.10)
       parser (>= 2.5, != 2.5.1.1)
