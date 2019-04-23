@@ -5,7 +5,7 @@ gem 'devise'
 
 gem 'rails-controller-testing'
 gem 'sass-rails'
-gem 'coffee-rails', git: 'https://github.com/rails/coffee-rails'
+gem 'coffee-rails'
 gem 'turbolinks'
 gem 'sqlite3'
 gem 'uglifier'
