@@ -9,7 +9,7 @@ gem 'turbolinks'
 gem 'sqlite3'
 gem 'uglifier'
 gem 'jquery-rails'
-gem 'jbuilder', git: 'https://github.com/rails/jbuilder'
+gem 'jbuilder'
 gem 'overcommit'
 gem 'warden'
 
