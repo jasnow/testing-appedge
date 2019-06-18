@@ -4,7 +4,7 @@ gem 'rails', git: 'https://github.com/rails/rails'
 gem 'devise'
 
 gem 'rails-controller-testing'
-gem 'sass-rails'
+gem 'sassc-rails'
 gem 'turbolinks'
 gem 'sqlite3'
 gem 'uglifier'
