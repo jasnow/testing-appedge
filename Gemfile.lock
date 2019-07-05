@@ -120,7 +120,7 @@ GEM
     ffi (1.11.1)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
-    hashdiff (0.4.0)
+    hashdiff (1.0.0.beta1)
     i18n (1.6.0)
       concurrent-ruby (~> 1.0)
     iniparse (1.4.4)
@@ -261,6 +261,7 @@ DEPENDENCIES
   capybara
   devise
   factory_bot_rails
+  hashdiff (= 1.0.0.beta1)
   jbuilder
   jquery-rails
   overcommit
