@@ -261,7 +261,6 @@ DEPENDENCIES
   capybara
   devise
   factory_bot_rails
-  hashdiff
   jbuilder
   jquery-rails
   overcommit

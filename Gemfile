@@ -31,6 +31,5 @@ group :development, :test do
 end
 
 group :test do
-  gem 'hashdiff'
   gem 'webmock'
 end
