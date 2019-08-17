@@ -11,7 +11,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: 5264bbf23f305829415a66ec4aad472e0ad7088f
+  revision: 7dfd9d2387e3253f3abd85f7699ca44c338dc77f
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -242,11 +242,11 @@ GEM
     vcr (5.0.0)
     warden (1.2.8)
       rack (>= 2.0.6)
-    web-console (4.0.0)
-      actionview (>= 6.0.0.a)
-      activemodel (>= 6.0.0.a)
+    web-console (4.0.1)
+      actionview (>= 6.0.0)
+      activemodel (>= 6.0.0)
       bindex (>= 0.4.0)
-      railties (>= 6.0.0.a)
+      railties (>= 6.0.0)
     webmock (3.6.2)
       addressable (>= 2.3.6)
       crack (>= 0.3.2)
