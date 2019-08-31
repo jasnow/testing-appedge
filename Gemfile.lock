@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: ffd74f58b0837e91815152d4fb4cfcfc0b6b4a1c
+  revision: 782d28030730c14658a7cd66ee81e7f16c0a12cd
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -82,8 +82,8 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.6.0)
-      public_suffix (>= 2.0.2, < 4.0)
+    addressable (2.7.0)
+      public_suffix (>= 2.0.2, < 5.0)
     ast (2.4.0)
     bcrypt (3.1.13)
     bindex (0.8.1)
@@ -151,9 +151,9 @@ GEM
       childprocess (>= 0.6.3, < 2.0)
       iniparse (~> 1.4)
     parallel (1.17.0)
-    parser (2.6.3.0)
+    parser (2.6.4.0)
       ast (~> 2.4.0)
-    public_suffix (3.1.1)
+    public_suffix (4.0.1)
     rack (2.0.7)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
