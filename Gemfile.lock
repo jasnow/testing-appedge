@@ -90,7 +90,7 @@ GEM
     ast (2.4.0)
     bcrypt (3.1.13)
     bindex (0.8.1)
-    builder (3.2.3)
+    builder (3.2.4)
     byebug (11.0.1)
     capybara (3.29.0)
       addressable
