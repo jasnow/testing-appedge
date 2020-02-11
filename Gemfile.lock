@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: c77a949299fcddd0f6f35d9bc21888b862ff665c
+  revision: 39d3c9bcacb43b0a45bcf06aa5b98f6e54deeb24
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -101,7 +101,7 @@ GEM
       regexp_parser (~> 1.5)
       xpath (~> 3.2)
     childprocess (3.0.0)
-    concurrent-ruby (1.1.5)
+    concurrent-ruby (1.1.6)
     crack (0.4.3)
       safe_yaml (~> 1.0.0)
     crass (1.0.6)
@@ -146,7 +146,7 @@ GEM
     mini_portile2 (2.4.0)
     minitest (5.14.0)
     nio4r (2.5.2)
-    nokogiri (1.10.7)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
     orm_adapter (0.5.0)
     overcommit (0.52.1)
@@ -156,7 +156,7 @@ GEM
     parser (2.7.0.2)
       ast (~> 2.4.0)
     public_suffix (4.0.3)
-    rack (2.2.1)
+    rack (2.2.2)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
     rails-controller-testing (1.0.4)
@@ -199,7 +199,7 @@ GEM
       rainbow (>= 2.2.2, < 4.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 1.4.0, < 1.7)
-    rubocop-rspec (1.37.1)
+    rubocop-rspec (1.38.0)
       rubocop (>= 0.68.1)
     ruby-progressbar (1.10.1)
     safe_yaml (1.0.5)
