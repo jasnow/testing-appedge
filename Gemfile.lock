@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 9c4171bae14db25f6c663c1f52b850ff684ba37d
+  revision: cf1abb775ef3949ea89f50e7ac939eb8230c4379
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -91,7 +91,7 @@ GEM
     bcrypt (3.1.13)
     bindex (0.8.1)
     builder (3.2.4)
-    byebug (11.1.1)
+    byebug (11.1.2)
     capybara (3.32.1)
       addressable
       mini_mime (>= 0.1.3)
