@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: ce77d671aeee028efe764b8f499cfb0c2a9111f7
+  revision: f24840a4da903a00c2979df7fd8c140e218da2de
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -102,8 +102,7 @@ GEM
       xpath (~> 3.2)
     childprocess (4.0.0)
     concurrent-ruby (1.1.7)
-    crack (0.4.3)
-      safe_yaml (~> 1.0.0)
+    crack (0.4.4)
     crass (1.0.6)
     devise (4.7.2)
       bcrypt (~> 3.0)
@@ -206,7 +205,6 @@ GEM
     rubocop-rspec (1.43.2)
       rubocop (~> 0.87)
     ruby-progressbar (1.10.1)
-    safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
     sassc-rails (2.1.2)
