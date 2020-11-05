@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: fc73becc3cbfa574af9d7f8359d060728375d186
+  revision: f61a38a16018551c902cdadfa6325cef5b582970
   specs:
     actioncable (6.1.0.rc1)
       actionpack (= 6.1.0.rc1)
@@ -201,7 +201,7 @@ GEM
       rubocop-ast (>= 0.6.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 1.4.0, < 2.0)
-    rubocop-ast (1.1.0)
+    rubocop-ast (1.1.1)
       parser (>= 2.7.1.5)
     rubocop-rspec (1.44.1)
       rubocop (~> 0.87)
@@ -241,7 +241,7 @@ GEM
     vcr (6.0.0)
     warden (1.2.9)
       rack (>= 2.0.9)
-    web-console (4.0.4)
+    web-console (4.1.0)
       actionview (>= 6.0.0)
       activemodel (>= 6.0.0)
       bindex (>= 0.4.0)
