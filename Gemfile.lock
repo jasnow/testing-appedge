@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 0ecf163cc8851e46b680306d328c194a3b38e2c3
+  revision: 85f0b0ef2f5809af7d298e90047060ac271c7da1
   specs:
     actioncable (6.2.0.alpha)
       actionpack (= 6.2.0.alpha)
@@ -258,7 +258,6 @@ GEM
     zeitwerk (2.4.2)
 
 PLATFORMS
-  ruby
   x86_64-darwin-16
 
 DEPENDENCIES
@@ -286,4 +285,4 @@ DEPENDENCIES
   webmock
 
 BUNDLED WITH
-   2.2.0
+   2.2.1
