@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 903656f43fe5bff666f0699f6cf056924b4080d7
+  revision: e0fb817ffd9ebacd64ae04ecb6d823ed789a3cef
   specs:
     actioncable (6.2.0.alpha)
       actionpack (= 6.2.0.alpha)
@@ -259,6 +259,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-16
+  x86_64-linux
 
 DEPENDENCIES
   byebug
@@ -285,4 +286,4 @@ DEPENDENCIES
   webmock
 
 BUNDLED WITH
-   2.2.2
+   2.2.3
