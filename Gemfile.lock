@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: fb9bfa777468b8b88ff7362d63102444f3b51f5a
+  revision: 7378ffb782cc7f61e3148ff746e1847e9424c6d6
   specs:
     actioncable (6.2.0.alpha)
       actionpack (= 6.2.0.alpha)
@@ -103,7 +103,8 @@ GEM
       xpath (~> 3.2)
     childprocess (4.0.0)
     concurrent-ruby (1.1.7)
-    crack (0.4.4)
+    crack (0.4.5)
+      rexml
     crass (1.0.6)
     devise (4.7.3)
       bcrypt (~> 3.0)
