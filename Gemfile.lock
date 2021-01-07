@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 17aa8999a3e7ddeea33377e5be2db9217bbcf73b
+  revision: 5e6350a46e6abf91c145f6a2d2d7c63494620bf2
   specs:
     actioncable (6.2.0.alpha)
       actionpack (= 6.2.0.alpha)
@@ -195,15 +195,15 @@ GEM
       rspec-mocks (~> 3.10)
       rspec-support (~> 3.10)
     rspec-support (3.10.1)
-    rubocop (1.7.0)
+    rubocop (1.8.0)
       parallel (~> 1.10)
-      parser (>= 2.7.1.5)
+      parser (>= 3.0.0.0)
       rainbow (>= 2.2.2, < 4.0)
       regexp_parser (>= 1.8, < 3.0)
       rexml
       rubocop-ast (>= 1.2.0, < 2.0)
       ruby-progressbar (~> 1.7)
-      unicode-display_width (>= 1.4.0, < 2.0)
+      unicode-display_width (>= 1.4.0, < 3.0)
     rubocop-ast (1.4.0)
       parser (>= 2.7.1.5)
     rubocop-rspec (2.1.0)
@@ -240,7 +240,7 @@ GEM
       concurrent-ruby (~> 1.0)
     uglifier (4.2.0)
       execjs (>= 0.3.0, < 3)
-    unicode-display_width (1.7.0)
+    unicode-display_width (2.0.0)
     vcr (6.0.0)
     warden (1.2.9)
       rack (>= 2.0.9)
