@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 9f980664fc1bc1fb9845e17d2c5a9ab710156303
+  revision: 396b22d3b6e602061f07a96539148bfb38cead9d
   branch: main
   specs:
     actioncable (7.0.0.alpha2)
@@ -125,7 +125,7 @@ GEM
     globalid (0.5.2)
       activesupport (>= 5.0)
     hashdiff (1.0.1)
-    i18n (1.8.10)
+    i18n (1.8.11)
       concurrent-ruby (~> 1.0)
     iniparse (1.5.0)
     jbuilder (2.11.2)
@@ -193,7 +193,7 @@ GEM
       rspec-expectations (~> 3.10)
       rspec-mocks (~> 3.10)
       rspec-support (~> 3.10)
-    rspec-support (3.10.2)
+    rspec-support (3.10.3)
     rubocop (1.22.3)
       parallel (~> 1.10)
       parser (>= 3.0.0.0)
@@ -203,9 +203,9 @@ GEM
       rubocop-ast (>= 1.12.0, < 2.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 1.4.0, < 3.0)
-    rubocop-ast (1.12.0)
+    rubocop-ast (1.13.0)
       parser (>= 3.0.1.1)
-    rubocop-rspec (2.5.0)
+    rubocop-rspec (2.6.0)
       rubocop (~> 1.19)
     ruby-progressbar (1.11.0)
     sassc (2.4.0)
