@@ -29,5 +29,6 @@ module TestingApp
     # config.i18n.default_locale = :de
 
     config.generators.javascript_engine = :js
+    config.active_record.legacy_connection_handling = false
   end
 end
