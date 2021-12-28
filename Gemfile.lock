@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 296ef7a17221e81881e38b51aa2b014d7a28bac5
+  revision: 79b0ffc4df3ae7b4ab2fb66aae4eb7fc0b01c472
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -219,7 +219,7 @@ GEM
       rubocop-ast (>= 1.15.0, < 2.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 1.4.0, < 3.0)
-    rubocop-ast (1.15.0)
+    rubocop-ast (1.15.1)
       parser (>= 3.0.1.1)
     rubocop-rspec (2.7.0)
       rubocop (~> 1.19)
@@ -274,10 +274,9 @@ GEM
     websocket-extensions (0.1.5)
     xpath (3.2.0)
       nokogiri (~> 1.8)
-    zeitwerk (2.5.1)
+    zeitwerk (2.5.2)
 
 PLATFORMS
-  x86_64-darwin-16
   x86_64-linux
 
 DEPENDENCIES
