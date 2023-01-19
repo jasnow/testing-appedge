@@ -1,10 +1,10 @@
 # This file is copied to spec/ when you run 'rails generate rspec:install'
-ENV['RAILS_ENV'] ||= 'test'
-require 'spec_helper'
-require File.expand_path('../../config/environment', __FILE__)
-require 'rspec/rails'
-#ADDED
-require 'webmock/rspec'
+ENV["RAILS_ENV"] ||= "test"
+require "spec_helper"
+require File.expand_path("../../config/environment", __FILE__)
+require "rspec/rails"
+# ADDED
+require "webmock/rspec"
 
 # Add additional requires below this line. Rails is not loaded until this point!
 
@@ -51,14 +51,14 @@ RSpec.configure do |config|
   # https://relishapp.com/rspec/rspec-rails/docs
   config.infer_spec_type_from_file_location!
 
-  #ADDED
+  # ADDED
   config.include FactoryBot::Syntax::Methods
   config.include Devise::Test::ControllerHelpers, type: :controller
   config.include Warden::Test::Helpers
 
-  #ADDED
+  # ADDED
   VCR.configure do |c|
-    c.cassette_library_dir  = Rails.root.join("spec", "vcr")
+    c.cassette_library_dir = Rails.root.join("spec", "vcr")
     c.hook_into :webmock
   end
 

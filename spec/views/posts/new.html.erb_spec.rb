@@ -1,9 +1,9 @@
-require 'rails_helper'
+require "rails_helper"
 
 RSpec.describe "posts/new", type: :view do
   before(:each) do
     assign(:post, Post.new(
-      :name => "MyString"
+      name: "MyString"
     ))
   end
 
@@ -11,7 +11,6 @@ RSpec.describe "posts/new", type: :view do
     render
 
     assert_select "form[action=?][method=?]", posts_path, "post" do
-
       assert_select "input#post_name[name=?]", "post[name]"
     end
   end
