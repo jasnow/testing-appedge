@@ -1,36 +1,36 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "rails", git: "https://github.com/rails/rails", branch: "main"
-gem "devise"
+gem 'devise'
+gem 'rails', git: 'https://github.com/rails/rails', branch: 'main'
 
-gem "rails-controller-testing"
-gem "sassc-rails"
-gem "turbolinks"
-gem "sqlite3"
-gem "uglifier"
-gem "jquery-rails"
-gem "jbuilder"
-gem "overcommit"
-gem "warden"
+gem 'jbuilder'
+gem 'jquery-rails'
+gem 'overcommit'
+gem 'rails-controller-testing'
+gem 'sassc-rails'
+gem 'sqlite3'
+gem 'turbolinks'
+gem 'uglifier'
+gem 'warden'
 
-gem "sdoc", group: :doc
+gem 'sdoc', group: :doc
 
 group :development do
-  gem "web-console"
+  gem 'web-console'
 end
 
 group :development, :test do
-  gem "debug"
-  gem "spring"
-  gem "rspec-rails"
-  gem "factory_bot_rails"
-  gem "capybara"
-  gem "spring-commands-rspec"
-  gem "vcr"
-  gem "rubocop-rspec"
-  gem "standard"
+  gem 'capybara'
+  gem 'debug'
+  gem 'factory_bot_rails'
+  gem 'rspec-rails'
+  gem 'rubocop-rspec'
+  gem 'spring'
+  gem 'spring-commands-rspec'
+  gem 'standard'
+  gem 'vcr'
 end
 
 group :test do
-  gem "webmock"
+  gem 'webmock'
 end

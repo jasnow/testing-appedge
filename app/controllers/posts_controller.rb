@@ -2,7 +2,7 @@ class PostsController < ApplicationController
   # ADDED
   before_action :authenticate_user!
 
-  before_action :set_post, only: [:show, :edit, :update, :destroy]
+  before_action :set_post, only: %i[show edit update destroy]
 
   # GET /posts
   # GET /posts.json
@@ -12,8 +12,7 @@ class PostsController < ApplicationController
 
   # GET /posts/1
   # GET /posts/1.json
-  def show
-  end
+  def show; end
 
   # GET /posts/new
   def new
@@ -21,24 +20,23 @@ class PostsController < ApplicationController
   end
 
   # GET /posts/1/edit
-  def edit
-  end
+  def edit; end
 
   # ADDED
-  require "json"
-  require "net/http"
+  require 'json'
+  require 'net/http'
   # POST /posts
   # POST /posts.json
   def create
     @post = Post.new(post_params)
 
     moon_json = Net::HTTP.get(URI.parse(
-      "http://cerridwen.viridian-project.de/api/v1/moon"
-    ))
+                                'http://cerridwen.viridian-project.de/api/v1/moon'
+                              ))
     moon = JSON.parse(moon_json).first
 
     @post.moon_phase =
-      "#{moon["phase"]["trend"]} in #{moon["position"]["sign"]}"
+      "#{moon['phase']['trend']} in #{moon['position']['sign']}"
 
     @post.save
     respond_with(@post)
@@ -62,10 +60,10 @@ class PostsController < ApplicationController
   def update
     respond_to do |format|
       if @post.update(post_params)
-        format.html {
+        format.html do
           redirect_to @post,
-            notice: "Post was successfully updated."
-        }
+                      notice: 'Post was successfully updated.'
+        end
         format.json { render :show, status: :ok, location: @post }
       else
         format.html { render :edit }
@@ -79,10 +77,10 @@ class PostsController < ApplicationController
   def destroy
     @post.destroy
     respond_to do |format|
-      format.html {
+      format.html do
         redirect_to posts_url,
-          notice: "Post was successfully destroyed."
-      }
+                    notice: 'Post was successfully destroyed.'
+      end
       format.json { head :no_content }
     end
   end
