@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 08f0b74da4fc7eaa7b06fac0bf181e8922f51b0a
+  revision: c703db086a467ffe5f479a03232327406fd42f03
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -103,6 +103,9 @@ GEM
     bcrypt (3.1.18)
     bindex (0.8.1)
     builder (3.2.4)
+    bundler-audit (0.9.1)
+      bundler (>= 1.2.0, < 3)
+      thor (~> 1.0)
     capybara (3.38.0)
       addressable
       matrix
@@ -252,6 +255,8 @@ GEM
       rubocop (~> 1.33)
       rubocop-capybara (~> 2.17)
     ruby-progressbar (1.11.0)
+    ruby_audit (2.2.0)
+      bundler-audit (~> 0.9.0)
     sassc (2.4.0)
       ffi (~> 1.9)
     sassc-rails (2.1.2)
@@ -326,6 +331,7 @@ DEPENDENCIES
   rails-controller-testing
   rspec-rails
   rubocop-rspec
+  ruby_audit
   sassc-rails
   sdoc
   spring
