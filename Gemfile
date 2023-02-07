@@ -30,6 +30,7 @@ group :development, :test do
   gem "standard"
   gem "vcr"
   gem "ruby_audit"
+  gem "spektr"
 end
 
 group :test do
