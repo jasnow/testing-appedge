@@ -21,7 +21,6 @@ end
 
 group :development, :test do
   gem "capybara"
-  gem "debug"
   gem "factory_bot_rails"
   gem "rspec-rails"
   gem "rubocop-rspec"

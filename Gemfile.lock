@@ -122,7 +122,6 @@ GEM
       rexml
     crass (1.0.6)
     date (3.3.3)
-    debug (1.7.1)
     devise (4.9.0)
       bcrypt (~> 3.0)
       orm_adapter (~> 0.1)
@@ -362,7 +361,6 @@ PLATFORMS
 
 DEPENDENCIES
   capybara
-  debug
   devise
   factory_bot_rails
   jbuilder
