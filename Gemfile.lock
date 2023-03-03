@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: e78ed07e008676752b2ed2cff97e74b31ffacaf5
+  revision: 556025d94b13ef76ec4bed26ccb62f37ef360220
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -196,7 +196,7 @@ GEM
       stringio
     public_suffix (5.0.1)
     racc (1.6.2)
-    rack (3.0.4.1)
+    rack (3.0.4.2)
     rack-session (2.0.0)
       rack (>= 3.0.0)
     rack-test (2.0.2)
