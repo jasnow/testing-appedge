@@ -28,6 +28,7 @@ group :development, :test do
   gem "spring-commands-rspec"
   gem "standard"
   gem "vcr"
+  gem 'simplecov', require: false
   gem "ruby_audit"
   gem "spektr"
 end
