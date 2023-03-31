@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 6879f89892b4784123fb40cdcc983ac32590a24d
+  revision: 055572ec36a749ce78ac0f8a0ed4c74421c08388
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -122,7 +122,7 @@ GEM
       rexml
     crass (1.0.6)
     date (3.3.3)
-    devise (4.9.0)
+    devise (4.9.1)
       bcrypt (~> 3.0)
       orm_adapter (~> 0.1)
       railties (>= 4.1.0)
@@ -192,7 +192,7 @@ GEM
       iniparse (~> 1.4)
       rexml (~> 3.2)
     parallel (1.22.1)
-    parser (3.2.1.1)
+    parser (3.2.2.0)
       ast (~> 2.4.1)
     pastel (0.8.0)
       tty-color (~> 0.5)
