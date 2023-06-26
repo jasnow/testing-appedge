@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 4f365720d1b87b7a8fe7d8d77c157b63d853e334
+  revision: c5af1e397ca11cd36310b9b66a3f32f097dd493d
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -247,7 +247,7 @@ GEM
       rspec-expectations (~> 3.12)
       rspec-mocks (~> 3.12)
       rspec-support (~> 3.12)
-    rspec-support (3.12.0)
+    rspec-support (3.12.1)
     rubocop (1.52.1)
       json (~> 2.3)
       parallel (~> 1.10)
@@ -360,7 +360,7 @@ GEM
       execjs (>= 0.3.0, < 3)
     unicode-display_width (2.4.2)
     unicode_utils (1.4.0)
-    vcr (6.1.0)
+    vcr (6.2.0)
     warden (1.2.9)
       rack (>= 2.0.9)
     web-console (4.2.0)
