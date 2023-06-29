@@ -29,5 +29,7 @@ module TestingApp
     # config.i18n.default_locale = :de
 
     config.generators.javascript_engine = :js
+
+    config.load_defaults 7.0
   end
 end
