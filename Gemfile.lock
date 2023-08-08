@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 129fe98f4cc74be53c7d194ff2faf06d9b382c41
+  revision: 2942958827f1934dfcba284d074e6d61104d3e7c
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -172,7 +172,7 @@ GEM
       net-smtp
     marcel (1.0.2)
     matrix (0.4.2)
-    mini_mime (1.1.2)
+    mini_mime (1.1.5)
     mini_portile2 (2.8.4)
     minitest (5.19.0)
     net-imap (0.3.7)
@@ -269,7 +269,7 @@ GEM
     rubocop-performance (1.18.0)
       rubocop (>= 1.7.0, < 2.0)
       rubocop-ast (>= 0.4.0)
-    rubocop-rspec (2.23.0)
+    rubocop-rspec (2.23.1)
       rubocop (~> 1.33)
       rubocop-capybara (~> 2.17)
       rubocop-factory_bot (~> 2.22)
