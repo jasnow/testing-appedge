@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 5fc58c86d2f057d714d8a0bee00a3c4d48a4f56a
+  revision: 5415d3a19ad4eb26a4e57bb31c06187ea5172812
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -147,7 +147,7 @@ GEM
       factory_bot (~> 6.2.0)
       railties (>= 5.0.0)
     ffi (1.15.5)
-    globalid (1.2.0)
+    globalid (1.2.1)
       activesupport (>= 6.1)
     haml (6.1.2)
       temple (>= 0.8.2)
@@ -158,9 +158,9 @@ GEM
       concurrent-ruby (~> 1.0)
     iniparse (1.5.0)
     io-console (0.6.0)
-    irb (1.8.0)
-      rdoc (~> 6.5)
-      reline (>= 0.3.6)
+    irb (1.8.1)
+      rdoc
+      reline (>= 0.3.8)
     jbuilder (2.11.5)
       actionview (>= 5.0.0)
       activesupport (>= 5.0.0)
@@ -326,7 +326,7 @@ GEM
     spring (4.1.1)
     spring-commands-rspec (1.0.4)
       spring (>= 0.9.1)
-    sprockets (4.2.0)
+    sprockets (4.2.1)
       concurrent-ruby (~> 1.0)
       rack (>= 2.2.4, < 4)
     sprockets-rails (3.4.2)
@@ -379,7 +379,7 @@ GEM
     vcr (6.2.0)
     warden (1.2.9)
       rack (>= 2.0.9)
-    web-console (4.2.0)
+    web-console (4.2.1)
       actionview (>= 6.0.0)
       activemodel (>= 6.0.0)
       bindex (>= 0.4.0)
