@@ -3,6 +3,8 @@ source "https://rubygems.org"
 gem "devise"
 gem "rails", git: "https://github.com/rails/rails", branch: "main"
 
+gem 'observer'
+
 gem "jbuilder"
 gem "jquery-rails"
 gem "overcommit"

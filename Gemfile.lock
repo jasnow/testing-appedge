@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 9c974caba16a855ac4acbb02e2f8f7b5b192214e
+  revision: d21d811ffece4d3959bcd37e58fec77590ff6f93
   branch: main
   specs:
     actioncable (7.1.0.beta1)
@@ -198,6 +198,7 @@ GEM
     nokogiri (1.15.4)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
+    observer (0.1.1)
     orm_adapter (0.5.0)
     overcommit (0.60.0)
       childprocess (>= 0.6.3, < 5)
@@ -407,6 +408,7 @@ DEPENDENCIES
   factory_bot_rails
   jbuilder
   jquery-rails
+  observer
   overcommit
   rails!
   rails-controller-testing
