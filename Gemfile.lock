@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 44d08599042d2ecbd6368a765cf33b35c9726b43
+  revision: 708176efb02cabb0d64679b2413bbab84b2dc034
   branch: main
   specs:
     actioncable (7.1.0.beta1)
@@ -146,7 +146,7 @@ GEM
     factory_bot_rails (6.2.0)
       factory_bot (~> 6.2.0)
       railties (>= 5.0.0)
-    ffi (1.16.1)
+    ffi (1.16.2)
     globalid (1.2.1)
       activesupport (>= 6.1)
     haml (6.1.2)
@@ -395,7 +395,7 @@ GEM
     websocket-extensions (0.1.5)
     xpath (3.2.0)
       nokogiri (~> 1.8)
-    zeitwerk (2.6.11)
+    zeitwerk (2.6.12)
 
 PLATFORMS
   ruby
