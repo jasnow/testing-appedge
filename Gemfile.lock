@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: a5f113f4332b3688d4431a97fa517d1b9517ceb0
+  revision: 832fb1de704899a230c83e7c966efac03a012137
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -375,7 +375,7 @@ GEM
       concurrent-ruby (~> 1.0)
     uglifier (4.2.0)
       execjs (>= 0.3.0, < 3)
-    unicode-display_width (2.4.2)
+    unicode-display_width (2.5.0)
     unicode_utils (1.4.0)
     vcr (6.2.0)
     warden (1.2.9)
