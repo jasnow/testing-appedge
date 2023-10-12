@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 174ab6c342b5bb560dfb5d15bba44f89aa1c0bed
+  revision: 5103ab167e3fd02f42a740ab4bb7f84f5fcf323a
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -129,7 +129,7 @@ GEM
       rexml
     crass (1.0.6)
     date (3.3.3)
-    devise (4.9.2)
+    devise (4.9.3)
       bcrypt (~> 3.0)
       orm_adapter (~> 0.1)
       railties (>= 4.1.0)
@@ -240,7 +240,7 @@ GEM
     regexp_parser (2.8.2)
     reline (0.3.9)
       io-console (~> 0.5)
-    responders (3.1.0)
+    responders (3.1.1)
       actionpack (>= 5.2)
       railties (>= 5.2)
     rexml (3.2.6)
