@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: f2d1366c18cbaca09b04fc7898cf6ce62e743129
+  revision: 67bc7652fbf7134454acd0c1a02324687102c789
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -322,7 +322,7 @@ GEM
       tty-spinner
       tty-table
       zeitwerk (>= 2.6)
-    spring (4.1.1)
+    spring (4.1.2)
     spring-commands-rspec (1.0.4)
       spring (>= 0.9.1)
     sprockets (4.2.1)
