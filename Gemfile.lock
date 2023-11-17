@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 22a26d7f74ea8f0d5f7c4169531ae38441cfd5e5
+  revision: b7d9654f981120b3f525533c3e35f544d3d3171e
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -211,7 +211,7 @@ GEM
       tty-color (~> 0.5)
     psych (5.1.1.1)
       stringio
-    public_suffix (5.0.3)
+    public_suffix (5.0.4)
     racc (1.7.3)
     rack (3.0.8)
     rack-session (2.0.0)
