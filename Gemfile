@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 gem "devise"
 gem "rails", git: "https://github.com/rails/rails", branch: "main"
+gem 'mutex_m'
 
 gem 'observer'
 
