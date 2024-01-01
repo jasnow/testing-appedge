@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: c2636a615e382b0d0608cf226cd87d243955f32c
+  revision: dca72dab117e79ee75666927935a7a6a31dd5324
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -39,6 +39,7 @@ GIT
       rack-test (>= 0.6.3)
       rails-dom-testing (~> 2.2)
       rails-html-sanitizer (~> 1.6)
+      useragent (~> 0.16)
     actiontext (7.2.0.alpha)
       actionpack (= 7.2.0.alpha)
       activerecord (= 7.2.0.alpha)
@@ -394,6 +395,7 @@ GEM
       execjs (>= 0.3.0, < 3)
     unicode-display_width (2.5.0)
     unicode_utils (1.4.0)
+    useragent (0.16.10)
     vcr (6.2.0)
     warden (1.2.9)
       rack (>= 2.0.9)
