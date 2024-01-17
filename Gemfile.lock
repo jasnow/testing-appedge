@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 4fa50ba38a002e95797595b2c57182c0f472d02a
+  revision: 25b7f640749e0dbbf731a7f5696e5c785195f922
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -117,7 +117,7 @@ GEM
       rack-test (>= 0.6.3)
       regexp_parser (>= 1.5, < 3.0)
       xpath (~> 3.2)
-    childprocess (4.1.0)
+    childprocess (5.0.0)
     concurrent-ruby (1.2.3)
     connection_pool (2.4.1)
     crack (0.4.5)
@@ -207,8 +207,8 @@ GEM
       racc (~> 1.4)
     observer (0.1.2)
     orm_adapter (0.5.0)
-    overcommit (0.61.0)
-      childprocess (>= 0.6.3, < 5)
+    overcommit (0.62.0)
+      childprocess (>= 0.6.3, < 6)
       iniparse (~> 1.4)
       rexml (~> 3.2)
     parallel (1.24.0)
