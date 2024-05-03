@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 26e53f43640821281bfd98bf91cee2c6ffa20daa
+  revision: e3867798a0015c97e5075ae0bada9c47160f9016
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -245,7 +245,7 @@ GEM
     rdoc (6.6.3.1)
       psych (>= 4.0.0)
     regexp_parser (2.9.0)
-    reline (0.5.4)
+    reline (0.5.5)
       io-console (~> 0.5)
     responders (3.1.1)
       actionpack (>= 5.2)
@@ -288,7 +288,7 @@ GEM
     rubocop-performance (1.20.2)
       rubocop (>= 1.48.1, < 2.0)
       rubocop-ast (>= 1.30.0, < 2.0)
-    rubocop-rspec (2.29.1)
+    rubocop-rspec (2.29.2)
       rubocop (~> 1.40)
       rubocop-capybara (~> 2.17)
       rubocop-factory_bot (~> 2.22)
