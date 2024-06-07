@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: c628f7711245ee36ddae9c85b23555b1a342782b
+  revision: bc727a04b7dcac8211b1bda5ea714ce6988b4c1d
   branch: main
   specs:
     actioncable (8.0.0.alpha)
@@ -69,6 +69,7 @@ GIT
       connection_pool (>= 2.2.5)
       drb
       i18n (>= 1.6, < 2)
+      logger
       minitest (>= 5.1)
       tzinfo (~> 2.0, >= 2.0.5)
     rails (8.0.0.alpha)
@@ -104,7 +105,7 @@ GEM
     bcrypt (3.1.20)
     bigdecimal (3.1.8)
     bindex (0.8.1)
-    builder (3.2.4)
+    builder (3.3.0)
     bundler-audit (0.9.1)
       bundler (>= 1.2.0, < 3)
       thor (~> 1.0)
@@ -176,6 +177,7 @@ GEM
     json (2.7.2)
     language_server-protocol (3.17.0.3)
     lint_roller (1.1.0)
+    logger (1.6.0)
     loofah (2.22.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.12.0)
@@ -299,7 +301,7 @@ GEM
     rubocop-performance (1.21.0)
       rubocop (>= 1.48.1, < 2.0)
       rubocop-ast (>= 1.31.1, < 2.0)
-    rubocop-rspec (2.30.0)
+    rubocop-rspec (2.31.0)
       rubocop (~> 1.40)
       rubocop-capybara (~> 2.17)
       rubocop-factory_bot (~> 2.22)
@@ -350,9 +352,9 @@ GEM
     sprockets (4.2.1)
       concurrent-ruby (~> 1.0)
       rack (>= 2.2.4, < 4)
-    sprockets-rails (3.4.2)
-      actionpack (>= 5.2)
-      activesupport (>= 5.2)
+    sprockets-rails (3.5.1)
+      actionpack (>= 6.1)
+      activesupport (>= 6.1)
       sprockets (>= 3.0.0)
     sqlite3 (1.7.3)
       mini_portile2 (~> 2.8.0)
