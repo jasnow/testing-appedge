@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 8d416d09fc7fc226c6e54dd772e1b8f1969c5d61
+  revision: e3ea4c74124f1de38897732f1ddb1f9a1d57e80d
   branch: main
   specs:
     actioncable (8.0.0.alpha)
@@ -223,7 +223,7 @@ GEM
       childprocess (>= 0.6.3, < 6)
       iniparse (~> 1.4)
       rexml (~> 3.2)
-    parallel (1.24.0)
+    parallel (1.25.1)
     parser (3.3.2.0)
       ast (~> 2.4.1)
       racc
@@ -262,8 +262,8 @@ GEM
     responders (3.1.1)
       actionpack (>= 5.2)
       railties (>= 5.2)
-    rexml (3.2.8)
-      strscan (>= 3.0.9)
+    rexml (3.2.9)
+      strscan
     rspec-core (3.13.0)
       rspec-support (~> 3.13.0)
     rspec-expectations (3.13.0)
