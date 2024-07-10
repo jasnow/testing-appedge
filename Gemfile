@@ -3,7 +3,6 @@ source "https://rubygems.org"
 gem "devise"
 gem "rails", git: "https://github.com/rails/rails", branch: "main"
 gem 'mutex_m'
-gem 'net-pop', github: 'ruby/net-pop' # 6/28/2024: Required for RUBY 3.3.3+
 
 gem 'observer'
 
