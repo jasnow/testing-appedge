@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 310aa1aeae599c7a0d9814a93f6130ab51488371
+  revision: 4a45f3144c680f86655a24d21a9e014f694cca74
   branch: main
   specs:
     actioncable (8.0.0.alpha)
@@ -71,6 +71,7 @@ GIT
       i18n (>= 1.6, < 2)
       logger (>= 1.4.2)
       minitest (>= 5.1)
+      securerandom (>= 0.3)
       tzinfo (~> 2.0, >= 2.0.5)
     rails (8.0.0.alpha)
       actioncable (= 8.0.0.alpha)
@@ -262,7 +263,7 @@ GEM
     responders (3.1.1)
       actionpack (>= 5.2)
       railties (>= 5.2)
-    rexml (3.3.2)
+    rexml (3.3.4)
       strscan
     rspec-core (3.13.0)
       rspec-support (~> 3.13.0)
@@ -315,6 +316,7 @@ GEM
       tilt
     sdoc (2.6.1)
       rdoc (>= 5.0)
+    securerandom (0.3.1)
     sexp_processor (4.17.2)
     simplecov (0.22.0)
       docile (~> 1.1)
@@ -343,7 +345,7 @@ GEM
     sprockets (4.2.1)
       concurrent-ruby (~> 1.0)
       rack (>= 2.2.4, < 4)
-    sprockets-rails (3.5.1)
+    sprockets-rails (3.5.2)
       actionpack (>= 6.1)
       activesupport (>= 6.1)
       sprockets (>= 3.0.0)
