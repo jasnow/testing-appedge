@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 8ab3cbe665b10459e1a518002f16413696979f90
+  revision: a5ffec5291442b38188e987e32844a6a8d260e4c
   branch: main
   specs:
     actioncable (8.0.0.alpha)
@@ -160,7 +160,7 @@ GEM
       temple (>= 0.8.2)
       thor
       tilt
-    hashdiff (1.1.0)
+    hashdiff (1.1.1)
     i18n (1.14.5)
       concurrent-ruby (~> 1.0)
     iniparse (1.5.0)
