@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 07ce4747afcde37f9f74e27850482592bb97ba9b
+  revision: a7c8a20825be5ac8d96566ec5dbe9daa85568bc8
   branch: main
   specs:
     actioncable (8.1.0.alpha)
@@ -129,7 +129,7 @@ GEM
       bigdecimal
       rexml
     crass (1.0.6)
-    date (3.3.4)
+    date (3.4.0)
     devise (4.9.4)
       bcrypt (~> 3.0)
       orm_adapter (~> 0.1)
@@ -206,7 +206,7 @@ GEM
       iniparse (~> 1.4)
       rexml (>= 3.3.9)
     parallel (1.26.3)
-    parser (3.3.5.0)
+    parser (3.3.5.1)
       ast (~> 2.4.1)
       racc
     pastel (0.8.0)
@@ -386,7 +386,7 @@ GEM
       addressable (>= 2.8.0)
       crack (>= 0.3.2)
       hashdiff (>= 0.4.0, < 2.0.0)
-    webrick (1.8.2)
+    webrick (1.9.0)
     websocket-driver (0.7.6)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
