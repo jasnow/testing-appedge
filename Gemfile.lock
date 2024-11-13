@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: f511cd3adc055fad53c9b4728c83430431f22998
+  revision: ad9bc2a51d5980d1c0990db97e552015410778f0
   branch: main
   specs:
     actioncable (8.1.0.alpha)
@@ -261,7 +261,7 @@ GEM
       rspec-mocks (~> 3.13)
       rspec-support (~> 3.13)
     rspec-support (3.13.1)
-    rubocop (1.66.1)
+    rubocop (1.68.0)
       json (~> 2.3)
       language_server-protocol (>= 3.17.0)
       parallel (~> 1.10)
@@ -329,10 +329,10 @@ GEM
       sprockets (>= 3.0.0)
     sqlite3 (2.2.0)
       mini_portile2 (~> 2.8.0)
-    standard (1.41.1)
+    standard (1.42.0)
       language_server-protocol (~> 3.17.0.2)
       lint_roller (~> 1.0)
-      rubocop (~> 1.66.0)
+      rubocop (~> 1.68.0)
       standard-custom (~> 1.0.0)
       standard-performance (~> 1.5)
     standard-custom (1.0.2)
