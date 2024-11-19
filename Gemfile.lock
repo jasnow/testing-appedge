@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 4df235f7c0149ac7be86580d41a74a7785cb9bb9
+  revision: c11312a918555aaad99b334d374a791cd6268152
   branch: main
   specs:
     actioncable (8.1.0.alpha)
@@ -235,7 +235,7 @@ GEM
       nokogiri (~> 1.14)
     rainbow (3.1.1)
     rake (13.2.1)
-    rdoc (6.7.0)
+    rdoc (6.8.1)
       psych (>= 4.0.0)
     regexp_parser (2.9.2)
     reline (0.5.11)
@@ -329,7 +329,7 @@ GEM
       sprockets (>= 3.0.0)
     sqlite3 (2.2.0)
       mini_portile2 (~> 2.8.0)
-    standard (1.42.0)
+    standard (1.42.1)
       language_server-protocol (~> 3.17.0.2)
       lint_roller (~> 1.0)
       rubocop (~> 1.68.0)
