@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: d3b2fcb4ffee825f8e9ad8f4bacc859978aebaed
+  revision: 07bf01aba4904ff2f9eb5cfd11b33c5d46db26a8
   branch: main
   specs:
     actioncable (8.1.0.alpha)
@@ -394,7 +394,6 @@ GEM
 
 PLATFORMS
   ruby
-  x86_64-darwin-16
   x86_64-linux
 
 DEPENDENCIES
