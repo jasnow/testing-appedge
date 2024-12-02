@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 2aa67ecba7018e985fc75c529204f3844615b7c4
+  revision: 65fd300349a9a491668120b4f783559c47b4ae70
   branch: main
   specs:
     actioncable (8.1.0.alpha)
@@ -129,7 +129,7 @@ GEM
       bigdecimal
       rexml
     crass (1.0.6)
-    date (3.4.0)
+    date (3.4.1)
     devise (4.9.4)
       bcrypt (~> 3.0)
       orm_adapter (~> 0.1)
@@ -171,7 +171,7 @@ GEM
     json (2.8.2)
     language_server-protocol (3.17.0.3)
     lint_roller (1.1.0)
-    logger (1.6.1)
+    logger (1.6.2)
     loofah (2.23.1)
       crass (~> 1.0.2)
       nokogiri (>= 1.12.0)
@@ -211,7 +211,8 @@ GEM
       racc
     pastel (0.8.0)
       tty-color (~> 0.5)
-    psych (5.2.0)
+    psych (5.2.1)
+      date
       stringio
     public_suffix (6.0.1)
     racc (1.8.1)
@@ -294,7 +295,7 @@ GEM
       tilt
     sdoc (2.6.1)
       rdoc (>= 5.0)
-    securerandom (0.3.2)
+    securerandom (0.4.0)
     sexp_processor (4.17.3)
     simplecov (0.22.0)
       docile (~> 1.1)
