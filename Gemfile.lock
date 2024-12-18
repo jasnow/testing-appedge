@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: f7ba6c43d67bb847b1d6297e17dc3d37e38ecb71
+  revision: 60cccb72f19023ad38a8c95342ec271c394e7295
   branch: main
   specs:
     actioncable (8.1.0.alpha)
@@ -158,7 +158,7 @@ GEM
       concurrent-ruby (~> 1.0)
     iniparse (1.5.0)
     io-console (0.8.0)
-    irb (1.14.2)
+    irb (1.14.3)
       rdoc (>= 4.0.0)
       reline (>= 0.4.2)
     jbuilder (2.13.0)
@@ -211,7 +211,7 @@ GEM
       racc
     pastel (0.8.0)
       tty-color (~> 0.5)
-    psych (5.2.1)
+    psych (5.2.2)
       date
       stringio
     public_suffix (6.0.1)
@@ -236,7 +236,7 @@ GEM
       nokogiri (>= 1.15.7, != 1.16.7, != 1.16.6, != 1.16.5, != 1.16.4, != 1.16.3, != 1.16.2, != 1.16.1, != 1.16.0.rc1, != 1.16.0)
     rainbow (3.1.1)
     rake (13.2.1)
-    rdoc (6.9.1)
+    rdoc (6.10.0)
       psych (>= 4.0.0)
     regexp_parser (2.9.3)
     reline (0.6.0)
@@ -428,4 +428,4 @@ DEPENDENCIES
   webmock
 
 BUNDLED WITH
-   2.6.0
+   2.6.1
