@@ -1,0 +1,23 @@
+Metrics/LineLength:
+  Exclude:
+    - 'ruby_audit.gemspec'
+
+Metrics/MethodLength:
+  Max: 15
+
+Metrics/BlockLength:
+  ExcludedMethods:
+    - describe
+
+Style/Documentation:
+  Enabled: false
+
+Naming/FileName:
+  Exclude:
+    - 'exe/ruby-audit'
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/NumericPredicate:
+  Enabled: false

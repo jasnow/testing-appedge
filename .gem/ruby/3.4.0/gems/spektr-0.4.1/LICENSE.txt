@@ -1,0 +1,27 @@
+Spektr Public Use Licence
+
+Copyright (c) 2022 Spektr Security LLC
+
+Commercial Use of the Software for commercial purposes requires a commercial licence but any non-commercial use is
+allowed free of charge.
+
+Commercial use includes offering the software as part of a Software as a Service, or part of a distributed software
+where it is used as part of that software.
+
+Non-commercial use includes anything else, for instance when lincecee scans his own codebase for vulnerabilities,
+or as part of a security audit engagement the licencee scans the target's source code for vulnerabilities.
+
+Licencee is also permitted to embed the scanner into his own closed source application as long as they don't break
+the non-commercial use requirements of the software.
+
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+Software: Spektr Scanner
+Licensor: Spektr Security LLC
