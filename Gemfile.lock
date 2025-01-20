@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 892955b5c9e647b957d49eb00854df56d15f0ab3
+  revision: e25d738430bdc6bdd04cd28be705484ea953e74e
   branch: main
   specs:
     actioncable (8.1.0.alpha)
@@ -162,7 +162,7 @@ GEM
       thor
       tilt
     hashdiff (1.1.2)
-    i18n (1.14.6)
+    i18n (1.14.7)
       concurrent-ruby (~> 1.0)
     iniparse (1.5.0)
     io-console (0.8.0)
@@ -203,24 +203,24 @@ GEM
       timeout
     net-smtp (0.5.0)
     nio4r (2.7.4)
-    nokogiri (1.18.1)
+    nokogiri (1.18.2)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
-    nokogiri (1.18.1-aarch64-linux-gnu)
+    nokogiri (1.18.2-aarch64-linux-gnu)
       racc (~> 1.4)
-    nokogiri (1.18.1-aarch64-linux-musl)
+    nokogiri (1.18.2-aarch64-linux-musl)
       racc (~> 1.4)
-    nokogiri (1.18.1-arm-linux-gnu)
+    nokogiri (1.18.2-arm-linux-gnu)
       racc (~> 1.4)
-    nokogiri (1.18.1-arm-linux-musl)
+    nokogiri (1.18.2-arm-linux-musl)
       racc (~> 1.4)
-    nokogiri (1.18.1-arm64-darwin)
+    nokogiri (1.18.2-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.18.1-x86_64-darwin)
+    nokogiri (1.18.2-x86_64-darwin)
       racc (~> 1.4)
-    nokogiri (1.18.1-x86_64-linux-gnu)
+    nokogiri (1.18.2-x86_64-linux-gnu)
       racc (~> 1.4)
-    nokogiri (1.18.1-x86_64-linux-musl)
+    nokogiri (1.18.2-x86_64-linux-musl)
       racc (~> 1.4)
     observer (0.1.2)
     orm_adapter (0.5.0)
