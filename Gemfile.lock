@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: e25d738430bdc6bdd04cd28be705484ea953e74e
+  revision: fb3dff330aef6c8886dda507c80b369b7125a761
   branch: main
   specs:
     actioncable (8.1.0.alpha)
@@ -301,7 +301,7 @@ GEM
     rubocop-performance (1.23.1)
       rubocop (>= 1.48.1, < 2.0)
       rubocop-ast (>= 1.31.1, < 2.0)
-    rubocop-rspec (3.3.0)
+    rubocop-rspec (3.4.0)
       rubocop (~> 1.61)
     ruby-progressbar (1.13.0)
     ruby_audit (3.0.0)
