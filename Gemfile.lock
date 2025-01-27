@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 0659e0b71d25ce1719290e438756fb872ec93d50
+  revision: fd4e57049b47ddba29d60bd8c0ef7aa21f24b780
   branch: main
   specs:
     actioncable (8.1.0.alpha)
@@ -178,7 +178,7 @@ GEM
       railties (>= 4.2.0)
       thor (>= 0.14, < 2.0)
     json (2.9.1)
-    language_server-protocol (3.17.0.3)
+    language_server-protocol (3.17.0.4)
     lint_roller (1.1.0)
     logger (1.6.5)
     loofah (2.24.0)
