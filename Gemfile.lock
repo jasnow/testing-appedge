@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 20cbe19231ea00e7d76da1e1ee73862a3cdd334b
+  revision: 885734a85ef4f4578400bda72a7507dd09a85e64
   branch: main
   specs:
     actioncable (8.1.0.alpha)
@@ -225,7 +225,7 @@ GEM
       racc (~> 1.4)
     observer (0.1.2)
     orm_adapter (0.5.0)
-    overcommit (0.65.0)
+    overcommit (0.66.0)
       childprocess (>= 0.6.3, < 6)
       iniparse (~> 1.4)
       rexml (>= 3.3.9)
