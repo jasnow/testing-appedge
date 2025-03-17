@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'devise', github: 'heartcombo/devise', branch: 'main' # Added 3/16/2025.
+gem 'devise', git: 'https://github.com/heartcombo/devise', branch: 'main'
 gem "rails", git: "https://github.com/rails/rails", branch: "main"
 gem 'mutex_m'
 
