@@ -30,7 +30,7 @@ module TestingApp
 
     config.generators.javascript_engine = :js
 
-    config.load_defaults 7.0
+    config.load_defaults 8.1
 
     config.active_support.to_time_preserves_timezone = :zone
   end
