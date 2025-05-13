@@ -12,7 +12,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: fb89f44a9c8334ecc7a37bfb596b74a371578c15
+  revision: 9dee5a1f642a0a92d7aac32002ab8706a389daac
   branch: main
   specs:
     actioncable (8.1.0.alpha)
@@ -198,7 +198,7 @@ GEM
     marcel (1.0.4)
     matrix (0.4.2)
     mini_mime (1.1.5)
-    mini_portile2 (2.8.8)
+    mini_portile2 (2.8.9)
     minitest (5.25.5)
     mutex_m (0.3.0)
     net-imap (0.5.8)
@@ -246,7 +246,7 @@ GEM
       prettyprint
     prettyprint (0.2.0)
     prism (1.4.0)
-    psych (5.2.5)
+    psych (5.2.6)
       date
       stringio
     public_suffix (6.0.2)
@@ -486,4 +486,4 @@ DEPENDENCIES
   webmock
 
 BUNDLED WITH
-   2.6.8
+   2.6.9
