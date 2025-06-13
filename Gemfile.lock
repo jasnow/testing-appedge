@@ -12,7 +12,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: fd49d6a3180244969fb5ab9768d0bc7d9e4df9fe
+  revision: 0f591639b864de6bf3fd760a6921f5eda17b2905
   branch: main
   specs:
     actioncable (8.1.0.alpha)
@@ -151,11 +151,11 @@ GEM
     erb (5.0.1)
     erubi (1.13.1)
     execjs (2.10.0)
-    factory_bot (6.5.3)
+    factory_bot (6.5.4)
       activesupport (>= 6.1.0)
-    factory_bot_rails (6.4.4)
+    factory_bot_rails (6.5.0)
       factory_bot (~> 6.5)
-      railties (>= 5.0.0)
+      railties (>= 6.1.0)
     ffi (1.17.2)
     ffi (1.17.2-aarch64-linux-gnu)
     ffi (1.17.2-aarch64-linux-musl)
