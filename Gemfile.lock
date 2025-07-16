@@ -12,7 +12,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: 79711deddfe0cf5dccb6015057210ab20dbcfc36
+  revision: 2eb6c45eb7fe464ca3f40351603b2f385cf3c175
   branch: main
   specs:
     actioncable (8.1.0.alpha)
@@ -149,7 +149,7 @@ GEM
     diff-lcs (1.6.2)
     docile (1.4.1)
     drb (2.2.3)
-    erb (5.0.1)
+    erb (5.0.2)
     erubi (1.13.1)
     execjs (2.10.0)
     factory_bot (6.5.4)
@@ -315,7 +315,7 @@ GEM
       rubocop-ast (>= 1.44.0, < 2.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 2.4.0, < 4.0)
-    rubocop-ast (1.45.1)
+    rubocop-ast (1.46.0)
       parser (>= 3.3.7.2)
       prism (~> 1.4)
     rubocop-performance (1.25.0)
@@ -347,7 +347,7 @@ GEM
       docile (~> 1.1)
       simplecov-html (~> 0.11)
       simplecov_json_formatter (~> 0.1)
-    simplecov-html (0.13.1)
+    simplecov-html (0.13.2)
     simplecov_json_formatter (0.1.4)
     slim (5.2.1)
       temple (~> 0.10.0)
@@ -493,4 +493,4 @@ DEPENDENCIES
   webmock
 
 BUNDLED WITH
-   2.6.9
+   2.7.0
