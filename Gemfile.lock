@@ -12,7 +12,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: 8840ad8a5f842eb2c77c1afc22bc9193fe642ece
+  revision: 1ced226437872515239044a1dc1d81a8453ae291
   branch: main
   specs:
     actioncable (8.1.0.alpha)
@@ -339,7 +339,7 @@ GEM
       sprockets (> 3.0)
       sprockets-rails
       tilt
-    sdoc (2.6.1)
+    sdoc (2.6.2)
       rdoc (>= 5.0)
     securerandom (0.4.1)
     sexp_processor (4.17.4)
