@@ -12,7 +12,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: 83aec03da6e5dcb0d64ac40c0a51ec3b9f06de29
+  revision: 604e8e057020d3ae522f674e3fdcaf4dea160d31
   branch: main
   specs:
     actioncable (8.1.0.beta1)
@@ -493,4 +493,4 @@ DEPENDENCIES
   webmock
 
 BUNDLED WITH
-   2.7.1
+   2.7.2
