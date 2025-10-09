@@ -12,7 +12,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: 82d39b5f52a6f6fd08bdbd92585cec03dfedaa14
+  revision: f4aef1529b704f7b616331d5267a45983fd3e1f0
   branch: main
   specs:
     actioncable (8.1.0.beta1)
@@ -251,7 +251,7 @@ GEM
     pp (0.6.3)
       prettyprint
     prettyprint (0.2.0)
-    prism (1.5.1)
+    prism (1.5.2)
     psych (5.2.6)
       date
       stringio
