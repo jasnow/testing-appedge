@@ -12,7 +12,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: 44b6847ead440f8ab5b17e3a0036fb4e75c6e2d4
+  revision: d5827e2deda604903925434de5374c4b8e8e0cd2
   branch: main
   specs:
     actioncable (8.2.0.alpha)
@@ -287,7 +287,7 @@ GEM
       actionpack (>= 7.0)
       railties (>= 7.0)
     rexml (3.4.4)
-    rspec-core (3.13.5)
+    rspec-core (3.13.6)
       rspec-support (~> 3.13.0)
     rspec-expectations (3.13.5)
       diff-lcs (>= 1.2.0, < 2.0)
