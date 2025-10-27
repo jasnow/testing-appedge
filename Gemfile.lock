@@ -12,7 +12,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: a445c5bf71264033c1727d1a111c622919129b79
+  revision: dcb29df5b25006dd92f4fc10295f0177a33db93c
   branch: main
   specs:
     actioncable (8.2.0.alpha)
@@ -242,7 +242,7 @@ GEM
       iniparse (~> 1.4)
       rexml (>= 3.3.9)
     parallel (1.27.0)
-    parser (3.3.9.0)
+    parser (3.3.10.0)
       ast (~> 2.4.1)
       racc
     pastel (0.8.0)
@@ -439,7 +439,7 @@ GEM
       activemodel (>= 6.0.0)
       bindex (>= 0.4.0)
       railties (>= 6.0.0)
-    webmock (3.25.2)
+    webmock (3.26.0)
       addressable (>= 2.8.0)
       crack (>= 0.3.2)
       hashdiff (>= 0.4.0, < 2.0.0)
