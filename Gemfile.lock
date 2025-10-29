@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/heartcombo/devise
-  revision: d60f81008676edc6ae9c8e6e4b28a20a473185d3
+  revision: f150357c1ce01a8eec740c3a6759bca1aae4d7d4
   branch: main
   specs:
     devise (5.0.0.beta)
@@ -12,7 +12,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: c07de4059c9f38ab39e2a0c3651ee9a36390d3b0
+  revision: a57f1a7a7a8324f2aca108490973c2469036924f
   branch: main
   specs:
     actioncable (8.2.0.alpha)
@@ -144,7 +144,7 @@ GEM
       bigdecimal
       rexml
     crass (1.0.6)
-    date (3.4.1)
+    date (3.5.0)
     diff-lcs (1.6.2)
     docile (1.4.1)
     drb (2.2.3)
@@ -276,7 +276,7 @@ GEM
       loofah (~> 2.21)
       nokogiri (>= 1.15.7, != 1.16.7, != 1.16.6, != 1.16.5, != 1.16.4, != 1.16.3, != 1.16.2, != 1.16.1, != 1.16.0.rc1, != 1.16.0)
     rainbow (3.1.1)
-    rake (13.3.0)
+    rake (13.3.1)
     rdoc (6.15.0)
       erb
       psych (>= 4.0.0)
@@ -407,7 +407,7 @@ GEM
     temple (0.10.4)
     thor (1.4.0)
     tilt (2.6.1)
-    timeout (0.4.3)
+    timeout (0.4.4)
     tsort (0.2.0)
     tty-color (0.6.0)
     tty-cursor (0.7.1)
