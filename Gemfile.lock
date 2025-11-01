@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/heartcombo/devise
-  revision: f150357c1ce01a8eec740c3a6759bca1aae4d7d4
+  revision: ef2d4831ef4641571aabde28ccf54f73329dfbc5
   branch: main
   specs:
     devise (5.0.0.beta)
@@ -12,7 +12,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails
-  revision: d7ab0e7cd433c23b4855c72c96e07b5b547d61db
+  revision: d3d17c297a70d3e255a34693a1fb0074712e9930
   branch: main
   specs:
     actioncable (8.2.0.alpha)
@@ -277,7 +277,7 @@ GEM
       nokogiri (>= 1.15.7, != 1.16.7, != 1.16.6, != 1.16.5, != 1.16.4, != 1.16.3, != 1.16.2, != 1.16.1, != 1.16.0.rc1, != 1.16.0)
     rainbow (3.1.1)
     rake (13.3.1)
-    rdoc (6.15.0)
+    rdoc (6.15.1)
       erb
       psych (>= 4.0.0)
       tsort
