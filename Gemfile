@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
-gem 'devise', git: 'https://github.com/heartcombo/devise', branch: 'main'
 gem "rails", git: "https://github.com/rails/rails", branch: "main"
+gem 'devise'
 gem 'mutex_m'
 
 gem 'observer'
