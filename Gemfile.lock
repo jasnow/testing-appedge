@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 5323acfcb8705cf6a57cbf706659912a4c05a515
+  revision: 069dd8d79783c647621e5943463d27104e92b92a
   branch: main
   specs:
     actioncable (8.2.0.alpha)
@@ -72,6 +72,7 @@ GIT
       json
       logger (>= 1.4.2)
       minitest (>= 5.1)
+      psych (>= 4)
       securerandom (>= 0.3)
       tzinfo (~> 2.0, >= 2.0.5)
       uri (>= 0.13.1)
@@ -333,7 +334,7 @@ GEM
     ruby-progressbar (1.13.0)
     ruby_audit (3.0.0)
       bundler-audit (~> 0.9.0)
-    ruby_parser (3.21.1)
+    ruby_parser (3.22.0)
       racc (~> 1.5)
       sexp_processor (~> 4.16)
     sassc (2.4.0)
@@ -627,7 +628,7 @@ CHECKSUMS
   rubocop-rspec (3.8.0) sha256=28440dccb3f223a9938ca1f946bd3438275b8c6c156dab909e2cb8bc424cab33
   ruby-progressbar (1.13.0) sha256=80fc9c47a9b640d6834e0dc7b3c94c9df37f08cb072b7761e4a71e22cff29b33
   ruby_audit (3.0.0) sha256=e456b31bdad006de56c2479cda74eaa1515578e052b84c85667856a44ec51ad7
-  ruby_parser (3.21.1) sha256=9d931abe5aec287d65280f811d3cf672564956ef1bd49f528ca48479984d6fec
+  ruby_parser (3.22.0) sha256=1eb4937cd9eb220aa2d194e352a24dba90aef00751e24c8dfffdb14000f15d23
   sassc (2.4.0) sha256=4c60a2b0a3b36685c83b80d5789401c2f678c1652e3288315a1551d811d9f83e
   sassc-rails (2.1.2) sha256=5f4fdf3881fc9bdc8e856ffbd9850d70a2878866feae8114aa45996179952db5
   sdoc (2.6.5) sha256=7998b61c10775ee3179ccb0253774332d139e2c0649c251091f5868107a09b86
