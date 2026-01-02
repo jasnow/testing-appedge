@@ -31,7 +31,6 @@ group :development, :test do
   gem "spring-commands-rspec"
   gem "standard"
   gem "vcr"
-  gem "ruby_audit"
   gem "spektr"
 end
 
