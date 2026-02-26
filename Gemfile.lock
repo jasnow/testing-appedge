@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 63cb9037938274358037e6bca13d22c0ccbf9fb8
+  revision: 805429182cbaeff8664c5a311dfb53552b53c93b
   branch: main
   specs:
     actioncable (8.2.0.alpha)
@@ -355,7 +355,7 @@ GEM
     slim (5.2.1)
       temple (~> 0.10.0)
       tilt (>= 2.1.0)
-    spektr (0.5.3)
+    spektr (0.5.5)
       erubi
       haml
       herb
@@ -630,7 +630,7 @@ CHECKSUMS
   simplecov-html (0.13.2) sha256=bd0b8e54e7c2d7685927e8d6286466359b6f16b18cb0df47b508e8d73c777246
   simplecov_json_formatter (0.1.4) sha256=529418fbe8de1713ac2b2d612aa3daa56d316975d307244399fa4838c601b428
   slim (5.2.1) sha256=72351dff7e2ff20e2d5c393cfc385bb9142cef5db059141628fd7163ac3c13e7
-  spektr (0.5.3) sha256=0790fcc0449e592a7561bdee159754f4d912f78fcd18f8fc8bfec92c678ec5ae
+  spektr (0.5.5) sha256=0c8383e972325d669e3e3c30a2936d05c5bf4c3142b5151ef90ca365cdf42104
   spring (4.4.2) sha256=22f61bacd8dc8595cedcdc738de46d7fc18be4d7a770986760344c924f485ce7
   spring-commands-rspec (1.0.4) sha256=6202e54fa4767452e3641461a83347645af478bf45dddcca9737b43af0dd1a2c
   sprockets (4.2.2) sha256=761e5a49f1c288704763f73139763564c845a8f856d52fba013458f8af1b59b1
