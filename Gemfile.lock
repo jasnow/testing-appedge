@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: c0eeb1fafbb3beb374c1bc17e75a8352e56abbb0
+  revision: 1f4a1d6e139d720705503ee17741426657423436
   branch: main
   specs:
     actioncable (8.2.0.alpha)
@@ -358,7 +358,7 @@ GEM
       tty-spinner
       tty-table
       zeitwerk (>= 2.6)
-    spring (4.4.2)
+    spring (4.5.0)
     spring-commands-rspec (1.0.4)
       spring (>= 0.9.1)
     sprockets (4.2.2)
@@ -612,7 +612,7 @@ CHECKSUMS
   simplecov_json_formatter (0.1.4) sha256=529418fbe8de1713ac2b2d612aa3daa56d316975d307244399fa4838c601b428
   slim (5.2.1) sha256=72351dff7e2ff20e2d5c393cfc385bb9142cef5db059141628fd7163ac3c13e7
   spektr (0.5.6) sha256=d0daa1f41f2e3e02661fb8c17ad81af553a60ddbff21d7cf579b7f5b99b17657
-  spring (4.4.2) sha256=22f61bacd8dc8595cedcdc738de46d7fc18be4d7a770986760344c924f485ce7
+  spring (4.5.0) sha256=9124b954f6d079cb9aa610d7069cbada7c146c9368599557806a9ff7067b2e1b
   spring-commands-rspec (1.0.4) sha256=6202e54fa4767452e3641461a83347645af478bf45dddcca9737b43af0dd1a2c
   sprockets (4.2.2) sha256=761e5a49f1c288704763f73139763564c845a8f856d52fba013458f8af1b59b1
   sprockets-rails (3.5.2) sha256=a9e88e6ce9f8c912d349aa5401509165ec42326baf9e942a85de4b76dbc4119e
