@@ -1,1 +1,1 @@
-rvm use ruby-4.0.3@ruby4.0-railsedge --create
+rvm use ruby-4.0.4@ruby4.0-railsedge --create
