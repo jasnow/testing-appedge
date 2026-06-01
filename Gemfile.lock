@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: adc396511ecad0f35548db8d114165a89ded50ba
+  revision: 68d4e4dceebf4beca0a7f4d77605a9fcb49f0f7b
   branch: main
   specs:
     actioncable (8.2.0.alpha)
@@ -232,7 +232,7 @@ GEM
       racc (~> 1.4)
     observer (0.1.2)
     orm_adapter (0.5.0)
-    overcommit (0.69.0)
+    overcommit (0.70.0)
       childprocess (>= 0.6.3, < 6)
       iniparse (~> 1.4)
       rexml (>= 3.3.9)
@@ -565,7 +565,7 @@ CHECKSUMS
   nokogiri (1.19.3-x86_64-linux-musl) sha256=248c906d2166eca5efb56d52fdee5f9a1f51d69a72e2b64fdac647b4ce39ea3f
   observer (0.1.2) sha256=d8a3107131ba661138d748e7be3dbafc0d82e732fffba9fccb3d7829880950ac
   orm_adapter (0.5.0) sha256=aa5d0be5d540cbb46d3a93e88061f4ece6a25f6e97d6a47122beb84fe595e9b9
-  overcommit (0.69.0) sha256=1509042558eb04cb780a3e15943e2b7770298f93f55e5a286b4afeb57f4f8697
+  overcommit (0.70.0) sha256=81fa3a37678848a6818a4d6b84f80f65d8708c3fa66bcc1555fefea1f4bf91f5
   parallel (1.28.0) sha256=33e6de1484baf2524792d178b0913fc8eb94c628d6cfe45599ad4458c638c970
   parser (3.3.11.1) sha256=d17ace7aabe3e72c3cc94043714be27cc6f852f104d81aa284c2281aecc65d54
   pastel (0.8.0) sha256=481da9fb7d2f6e6b1a08faf11fa10363172dc40fd47848f096ae21209f805a75
