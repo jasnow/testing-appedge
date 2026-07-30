@@ -31,7 +31,7 @@ group :development, :test do
   gem "spring-commands-rspec"
   gem "standard"
   gem "vcr"
-  gem "spektr"
+  # HID gem "spektr"
 end
 
 group :test do
